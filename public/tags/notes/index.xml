@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes on infodump</title>
-    <link>//localhost:1313/tags/notes/</link>
+    <link>/tags/notes/</link>
     <description>Recent content in Notes on infodump</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Mar 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>second</title>
-      <link>//localhost:1313/posts/second/</link>
+      <link>/posts/second/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/posts/second/</guid>
+      <guid>/posts/second/</guid>
       <description></description>
     </item>
   </channel>
