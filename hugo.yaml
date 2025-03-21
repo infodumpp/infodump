@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://infodump.netlify.app/"
 languageCode: en-us
 title: infodump
 theme: PaperMod
