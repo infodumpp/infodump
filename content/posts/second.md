@@ -1,10 +1,15 @@
 ---
 date: '2025-03-10T23:05:54+08:00'
 draft: false
-title: 'second'
+title: 'Atomic Structure'
 cover: 
-    image: img/atomic.JPG
     caption: 'hi'
+    width: '200px' 
+    height: '200px' 
 tags: ['chemistry', 'notes']
 categories: ['notes']
 ---
+# This is a heading
+{{< embed-pdf src='pdf/atomicstructure.pdf' width='100px' height='600px' >}}
+
+### Common errors include

@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-21T12:38:47+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-21T12:38:47+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/first/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/tags/chemistry/</loc>
+    <loc>http://localhost:1313/posts/second/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/tags/chemistry/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/categories/notes/</loc>
+    <loc>http://localhost:1313/categories/notes/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/tags/notes/</loc>
+    <loc>http://localhost:1313/tags/notes/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://localhost:1313/posts/third/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-03-10T23:05:54+08:00</lastmod>
-  </url><url>
-    <loc>/posts/third/</loc>
-    <lastmod>2025-03-10T23:05:54+08:00</lastmod>
-  </url><url>
-    <loc>/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>

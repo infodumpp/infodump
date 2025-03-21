@@ -1,7 +1,10 @@
 baseURL: "https://infodump.netlify.app/"
 languageCode: en-us
 title: infodump
-theme: PaperMod
+theme:
+  - hugo-embed-pdf-shortcode
+  - PaperMod
+enableInlineShortcodes: true
 
 taxonomies:
   category: categories
@@ -14,6 +17,11 @@ params:
   socialIcons:
     - name: youtube
       url: 'https://www.youtube.com/@infodumpppp'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 cover: 
   ShowBreadCrumbs: true
