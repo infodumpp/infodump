@@ -10,6 +10,7 @@ tags: ['chemistry', 'notes']
 categories: ['notes']
 ---
 # This is a heading
-{{< embed-pdf src='pdf/atomicstructure.pdf' width='100px' height='600px' >}}
+
+{{< embed-pdf src="/pdf/atomicstructure.pdf" >}}
 
 ### Common errors include

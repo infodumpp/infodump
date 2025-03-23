@@ -9,35 +9,8 @@
 <meta name="keywords" content="chemistry, notes">
 <meta name="description" content="This is a heading
 
-    
-        
-    
-    
-      
-        
-            
-        
-      
-    
-    
 
-
-
-    Previous
-    Next &nbsp; &nbsp;
-    
-       / 
-    
-    [pdf]
-
-
-
-View the PDF file here.
-
-
-
-
-common errors include">
+Common errors include">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/posts/second/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
@@ -154,176 +127,14 @@ common errors include">
     <h1 class="post-title entry-hint-parent">
       Atomic Structure
     </h1>
-    <div class="post-meta"><span title='2025-03-10 23:05:54 +0800 PST'>March 10, 2025</span>
+    <div class="post-meta"><span title='2025-03-10 23:05:54 +0800 +08'>March 10, 2025</span>
 
 </div>
   </header> 
   <div class="post-content"><h1 id="this-is-a-heading">This is a heading<a hidden class="anchor" aria-hidden="true" href="#this-is-a-heading">#</a></h1>
-<div class="embed-pdf-container" id="embed-pdf-container-d41d8cd9">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-d41d8cd9">
-        <div class="pdf-loading" id="pdf-loading-d41d8cd9"></div>
-    </div>
-    <div id="overlayText">
-      <a href="" aria-label="Download" download>
-        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
-            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
-        </svg>
-      </a>
-    </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-d41d8cd9"></canvas>
-</div>
+<iframe src="/pdf/atomicstructure.pdf" width="100%" height="600px"></iframe>
 
-<div class="pdf-paginator" id="pdf-paginator-d41d8cd9">
-    <button id="pdf-prev-d41d8cd9">Previous</button>
-    <button id="pdf-next-d41d8cd9">Next</button> &nbsp; &nbsp;
-    <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-d41d8cd9"></span> / <span class="pdf-pagecount" id="pdf-pagecount-d41d8cd9"></span>
-    </span>
-    <a class="pdf-source" id="pdf-source-d41d8cd9" href="">[pdf]</a>
-</div>
-
-<noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-d41d8cd9" href="">here</a>.
-</noscript>
-
-<script type="text/javascript">
-    (function(){
-    var url = '';
-
-    var hidePaginator = "" === "true";
-    var hideLoader = "" === "true";
-    var selectedPageNum = parseInt("") || 1;
-
-    
-    var pdfjsLib = window['pdfjs-dist/build/pdf'];
-
-    
-    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
-      pdfjsLib.GlobalWorkerOptions.workerSrc = "http:\/\/localhost:1313\/" + 'js/pdf-js/build/pdf.worker.js';
-
-    
-    var pdfDoc = null,
-        pageNum = selectedPageNum,
-        pageRendering = false,
-        pageNumPending = null,
-        scale = 3,
-        canvas = document.getElementById('pdf-canvas-d41d8cd9'),
-        ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-d41d8cd9"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-d41d8cd9');
-
-
-    
-    showPaginator();
-    showLoader();
-
-    
-
-    function renderPage(num) {
-      pageRendering = true;
-      
-      pdfDoc.getPage(num).then(function(page) {
-        var viewport = page.getViewport({scale: scale});
-        canvas.height = viewport.height;
-        canvas.width = viewport.width;
-
-        
-        var renderContext = {
-          canvasContext: ctx,
-          viewport: viewport
-        };
-        var renderTask = page.render(renderContext);
-
-        
-        renderTask.promise.then(function() {
-          pageRendering = false;
-          showContent();
-
-          if (pageNumPending !== null) {
-            
-            renderPage(pageNumPending);
-            pageNumPending = null;
-          }
-        });
-      });
-
-      
-      document.getElementById('pdf-pagenum-d41d8cd9').textContent = num;
-    }
-
-    
-
-    function showContent() {
-      loadingWrapper.style.display = 'none';
-      canvas.style.display = 'block';
-    }
-
-    
-
-    function showLoader() {
-      if(hideLoader) return
-      loadingWrapper.style.display = 'flex';
-      canvas.style.display = 'none';
-    }
-
-    
-
-    function showPaginator() {
-      if(hidePaginator) return
-      paginator.style.display = 'block';
-    }
-
-    
-
-    function queueRenderPage(num) {
-      if (pageRendering) {
-        pageNumPending = num;
-      } else {
-        renderPage(num);
-      }
-    }
-
-    
-
-    function onPrevPage() {
-      if (pageNum <= 1) {
-        return;
-      }
-      pageNum--;
-      queueRenderPage(pageNum);
-    }
-    document.getElementById('pdf-prev-d41d8cd9').addEventListener('click', onPrevPage);
-
-    
-
-    function onNextPage() {
-      if (pageNum >= pdfDoc.numPages) {
-        return;
-      }
-      pageNum++;
-      queueRenderPage(pageNum);
-    }
-    document.getElementById('pdf-next-d41d8cd9').addEventListener('click', onNextPage);
-
-    
-
-    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
-      pdfDoc = pdfDoc_;
-      var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-d41d8cd9').textContent = numPages;
-
-      
-      if(pageNum > numPages) {
-        pageNum = numPages
-      }
-
-      
-      renderPage(pageNum);
-    });
-    })();
-</script>
-
-<h3 id="common-errors-include">common errors include<a hidden class="anchor" aria-hidden="true" href="#common-errors-include">#</a></h3>
+<h3 id="common-errors-include">Common errors include<a hidden class="anchor" aria-hidden="true" href="#common-errors-include">#</a></h3>
 
 
   </div>

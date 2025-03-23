@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/tags/notes/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Physics</title>
+      <link>http://localhost:1313/tags/physics/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/physics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
