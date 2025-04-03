@@ -4,7 +4,7 @@ draft: false
 title: 'Waves'
 cover: 
     caption: 'hi'
-tags: ['physics', 'notes']
+tags: ['physics']
 categories: ['notes']
 ---
 

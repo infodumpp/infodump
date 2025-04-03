@@ -10,11 +10,31 @@
     <atom:link href="http://localhost:1313/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atomic Structure</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
 &lt;iframe src=&#34;http://localhost:1313/pdf/atomicstructure.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Chemical Bonding</title>
+      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
+&lt;iframe src=&#34;http://localhost:1313/pdf/chemicalbonding.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Separation Techniques</title>
+      <link>http://localhost:1313/posts/chemistry/separation/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
+&lt;iframe src=&#34;http://localhost:1313/pdf/separation.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>

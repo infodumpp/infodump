@@ -12,8 +12,8 @@ taxonomies:
 
 params:
   homeInfoparams:
-    Title: 'hello stranger'
-    Content: 'welcome to my blog'
+    Title: 'Hi Reader!'
+    Content: 'These notes are based on the IGCSE/A-level syllabus​ ( っ˶´ ˘ `)っ I hope that you find them helpful!'
   socialIcons:
     - name: youtube
       url: 'https://www.youtube.com/@infodumpppp'
