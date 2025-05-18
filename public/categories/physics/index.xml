@@ -18,5 +18,34 @@
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
+    <item>
+      <title>Work, energy, power</title>
+      <link>http://localhost:1313/posts/physics/workenergypower/</link>
+      <pubDate>Fri, 21 Mar 2025 12:38:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/workenergypower/</guid>
+      <description>&lt;blockquote&gt;
+&lt;h3 id=&#34;tips--common-mistakes&#34;&gt;Tips / common mistakes&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Average force = Wd/d,&lt;/li&gt;
+&lt;li&gt;Wd is a scalar quantity&lt;/li&gt;
+&lt;li&gt;Power is rate of work&lt;/li&gt;
+&lt;li&gt;When an object is going uphill, resistive forces hve a horizontal (frcition) and vertical component (gravity)&lt;/li&gt;
+&lt;li&gt;Work done has to be in the same direction&lt;/li&gt;
+&lt;li&gt;EPE is greatest when extension is the longest, while KE is the lowest
+EPE can be derived from the area under the force-extention graph&lt;/li&gt;
+&lt;li&gt;GPE is relative to a point&lt;/li&gt;
+&lt;li&gt;Useful energy does not include work done against friction&lt;/li&gt;
+&lt;/ol&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Measurement</title>
+      <link>http://localhost:1313/posts/physics/measurement/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/measurement/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
+&lt;iframe src=&#34;http://localhost:1313/pdf/measurement.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
+    </item>
   </channel>
 </rss>

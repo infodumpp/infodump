@@ -5,7 +5,7 @@ title: 'Waves'
 cover: 
     caption: 'hi'
 tags: ['physics']
-categories: ['notes']
+categories: ['physics']
 ---
 
 ![Wave notes](/img/waves.JPG)
