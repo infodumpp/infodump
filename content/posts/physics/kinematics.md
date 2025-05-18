@@ -7,7 +7,7 @@ cover:
     width: '200px' 
     height: '200px' 
 tags: ['physics', 'notes']
-categories: ['notes']
+categories: ['physics']
 ---
 # This is a heading
 

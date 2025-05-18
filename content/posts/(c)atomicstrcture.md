@@ -6,8 +6,8 @@ cover:
     caption: 'hi'
     width: '200px' 
     height: '200px' 
-tags: ['chemistry']
-categories: ['notes']
+tags: ['chemistry','notes']
+categories: ['chemistry']
 ---
 # This is a heading
 

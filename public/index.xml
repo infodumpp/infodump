@@ -6,8 +6,18 @@
     <description>Recent content on infodump</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 12:38:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 23:05:54 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kinematics</title>
+      <link>http://localhost:1313/posts/physics/kinematics/</link>
+      <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
+&lt;iframe src=&#34;http://localhost:1313/pdf/kinematics.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>Work, energy, power</title>
       <link>http://localhost:1313/posts/physics/workenergypower/</link>

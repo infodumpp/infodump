@@ -2,8 +2,8 @@
 date: '2025-03-21T12:38:28+08:00'
 draft: false
 title: 'Work, energy, power'
-tags: ['physics']
-categories: ['notes']
+tags: ['physics','notes']
+categories: ['physics']
 ---
 
 > ### Tips / common mistakes
