@@ -11,13 +11,15 @@ taxonomies:
   tag: tags
 
 params:
-  homeInfoparams:
+  homeInfoParams:
     Title: 'Hi Reader!'
-    Content: 'These notes are based on the IGCSE/A-level syllabus​ ( っ˶´ ˘ `)っ I hope that you find them helpful!'
+    Content: 'These notes are based on the IGCSE/A-level syllabus...'
   socialIcons:
     - name: youtube
       url: 'https://www.youtube.com/@infodumpppp'
-
+  adsense:  # ← New section added here
+    enable: true
+    publisher_id: "ca-pub-4710986402681136"  # Replace with your actual ID
 markup:
   goldmark:
     renderer:

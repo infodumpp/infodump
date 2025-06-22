@@ -1,1 +1,3 @@
-{{ partial "google/ads" . }}
+{{ if .Site.Params.adsense.enable }}
+  {{ partial "google/adsense" . }}
+{{ end }}
