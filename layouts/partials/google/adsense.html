@@ -1,5 +1,3 @@
-<script
-  async
-  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=pub-4710986402681136"
-  crossorigin="anonymous">
-</script>
+{{ if .Site.Params.adsense.enable }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense.publisher_id }}" crossorigin="anonymous"></script>
+{{ end }}

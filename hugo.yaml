@@ -17,9 +17,9 @@ params:
   socialIcons:
     - name: youtube
       url: 'https://www.youtube.com/@infodumpppp'
-  adsense:  # ← New section added here
+  adsense:  
     enable: true
-    publisher_id: "ca-pub-4710986402681136"  # Replace with your actual ID
+    publisher_id: "ca-pub-4710986402681136" 
 markup:
   goldmark:
     renderer:
