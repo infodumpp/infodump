@@ -47,5 +47,51 @@ EPE can be derived from the area under the force-extention graph&lt;/li&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
+    <item>
+      <title>Waves</title>
+      <link>http://localhost:1313/posts/physics/waves/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/waves/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Wave notes&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/waves.JPG&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;common-errors&#34;&gt;Common errors&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Displacement-distance graph&lt;/th&gt;
+          &lt;th&gt;Displacement-time graph&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;movement of the wave itself&lt;/td&gt;
+          &lt;td&gt;Showing displacement of a point on a wave&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Frequency&lt;/th&gt;
+          &lt;th&gt;Period&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;# of cycles / s&lt;/td&gt;
+          &lt;td&gt;1 cycle / unit of time&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;At equilibrium point, particle is moving the fastest&lt;/li&gt;
+&lt;li&gt;At crest and trough, particle is at rest (change in direction)&lt;/li&gt;
+&lt;li&gt;Between 2 points in a phase = wavelength&lt;/li&gt;
+&lt;/ol&gt;&lt;/blockquote&gt;</description>
+    </item>
   </channel>
 </rss>
