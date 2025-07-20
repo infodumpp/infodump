@@ -1,0 +1,4 @@
+baseURL: 'http://localhost:1313'
+theme: PaperMod
+params:
+  customCSS: ['css/custom.css']

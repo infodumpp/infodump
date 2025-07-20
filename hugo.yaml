@@ -11,24 +11,23 @@ taxonomies:
   tag: tags
 
 params:
+  customCSS: ["css/custom.css"]
   homeInfoParams:
-    Title: 'Hi Reader!'
-    Content: 'These notes are based on the IGCSE/A-level syllabus...'
-  socialIcons:
-    - name: youtube
-      url: 'https://www.youtube.com/@infodumpppp'
+    Title: "Hi Reader!"
+    Content: "These notes are based on the IGCSE/A-level syllabus..."
+
   adsense:  
     enable: true
-    publisher_id: "ca-pub-4710986402681136" 
+    publisher_id: "ca-pub-4710986402681136"
+  cover: 
+    ShowBreadCrumbs: true
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+
 markup:
   goldmark:
     renderer:
       unsafe: true
-
-cover: 
-  ShowBreadCrumbs: true
-  ShowReadingTime: true
-  ShowPostNavLinks: true
 
 
 menu:
