@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on infodump</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://infodump.netlify.app/posts/</link>
     <description>Recent content in Posts on infodump</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infodump.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
+      <link>https://infodump.netlify.app/posts/physics/dc-circuits/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/dc-circuits/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;⚡️&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/DC%20circuits.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/DC%20circuits.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Kinematics</title>
-      <link>http://localhost:1313/posts/physics/kinematics/</link>
+      <link>https://infodump.netlify.app/posts/physics/kinematics/</link>
       <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/kinematics/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/kinematics.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/kinematics.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Work, energy, power</title>
-      <link>http://localhost:1313/posts/physics/workenergypower/</link>
+      <link>https://infodump.netlify.app/posts/physics/workenergypower/</link>
       <pubDate>Fri, 21 Mar 2025 12:38:28 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/workenergypower/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/workenergypower/</guid>
       <description>&lt;blockquote&gt;
 &lt;h3 id=&#34;tips--common-mistakes&#34;&gt;Tips / common mistakes&lt;/h3&gt;
 &lt;ol&gt;
@@ -49,60 +49,60 @@ EPE can be derived from the area under the force-extention graph&lt;/li&gt;
     </item>
     <item>
       <title>Atomic Structure</title>
-      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
+      <link>https://infodump.netlify.app/posts/chemistry/atomicstrcture/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
+      <guid>https://infodump.netlify.app/posts/chemistry/atomicstrcture/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/atomicstructure.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/atomicstructure.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Chemical Bonding</title>
-      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
+      <link>https://infodump.netlify.app/posts/chemistry/chemicalbonding/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
+      <guid>https://infodump.netlify.app/posts/chemistry/chemicalbonding/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/chemicalbonding.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/chemicalbonding.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Measurement</title>
-      <link>http://localhost:1313/posts/physics/measurement/</link>
+      <link>https://infodump.netlify.app/posts/physics/measurement/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/measurement/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/measurement/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/measurement.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/measurement.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Polymers</title>
-      <link>http://localhost:1313/posts/chemistry/polymers/</link>
+      <link>https://infodump.netlify.app/posts/chemistry/polymers/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
+      <guid>https://infodump.netlify.app/posts/chemistry/polymers/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/polymers.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/polymers.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Separation Techniques</title>
-      <link>http://localhost:1313/posts/chemistry/separation/</link>
+      <link>https://infodump.netlify.app/posts/chemistry/separation/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
+      <guid>https://infodump.netlify.app/posts/chemistry/separation/</guid>
       <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;
-&lt;iframe src=&#34;http://localhost:1313/pdf/separation.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://infodump.netlify.app/pdf/separation.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;common-errors-include&#34;&gt;Common errors include&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Waves</title>
-      <link>http://localhost:1313/posts/physics/waves/</link>
+      <link>https://infodump.netlify.app/posts/physics/waves/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/waves/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Wave notes&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/waves.JPG&#34;&gt;&lt;/p&gt;
+      <guid>https://infodump.netlify.app/posts/physics/waves/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Wave notes&#34; loading=&#34;lazy&#34; src=&#34;https://infodump.netlify.app/img/waves.JPG&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3 id=&#34;common-errors&#34;&gt;Common errors&lt;/h3&gt;
 &lt;ol&gt;

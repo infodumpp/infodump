@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on infodump</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://infodump.netlify.app/tags/</link>
     <description>Recent content in Tags on infodump</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infodump.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/tags/notes/</link>
+      <link>https://infodump.netlify.app/tags/notes/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/notes/</guid>
+      <guid>https://infodump.netlify.app/tags/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
+      <link>https://infodump.netlify.app/tags/physics/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/physics/</guid>
+      <guid>https://infodump.netlify.app/tags/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemistry</title>
-      <link>http://localhost:1313/tags/chemistry/</link>
+      <link>https://infodump.netlify.app/tags/chemistry/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/chemistry/</guid>
+      <guid>https://infodump.netlify.app/tags/chemistry/</guid>
       <description></description>
     </item>
   </channel>
