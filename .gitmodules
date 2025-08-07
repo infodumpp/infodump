@@ -4,3 +4,9 @@
 [submodule "themes/hugo-embed-pdf-shortcode"]
 	path = themes/hugo-embed-pdf-shortcode
 	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
+[submodule "themes/quint"]
+	path = themes/quint
+	url = https://github.com/victoriadrake/hugo-theme-quint.git
+[submodule "hugo-theme-dream"]
+	path = hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream.git
