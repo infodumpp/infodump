@@ -10,7 +10,7 @@ tags: ['chemistry', 'notes']
 categories: ['chemistry']
 ---
 # This is a heading
-
+<!--more-->
 {{< embed-pdf src="/pdf/chemicalbonding.pdf" >}}
 
 ### Common errors include

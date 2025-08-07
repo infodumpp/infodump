@@ -10,7 +10,7 @@ tags: ['chemistry', 'notes']
 categories: ['chemistry']
 ---
 # This is a heading
-
+<!--more-->
 {{< embed-pdf src="/pdf/separation.pdf" >}}
 
 ### Common errors include

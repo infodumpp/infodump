@@ -11,6 +11,7 @@ categories: ['chemistry']
 ---
 # This is a heading
 
+<!--more-->
 {{< embed-pdf src="/pdf/atomicstructure.pdf" >}}
 
 ### Common errors include

@@ -6,6 +6,7 @@ tags: ['physics','notes']
 categories: ['physics']
 ---
 
+<!--more-->
 > ### Tips / common mistakes
 > 1. Average force = Wd/d, 
 > 2. Wd is a scalar quantity

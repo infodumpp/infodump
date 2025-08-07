@@ -2,14 +2,14 @@
 date: '2025-07-03T23:05:54+08:00'
 draft: false
 title: 'DC Circuits'
-cover: 
-    caption: 'hello'
-    width: '200px' 
-    height: '200px' 
+image: '/img/dccircuits.JPG'
 tags: ['physics', 'notes']
 categories: ['physics']
 ---
+
+<!--more-->
+
 # ⚡️
-{{< embed-pdf src="/pdf/DC circuits.pdf" >}}
+{{< embed-pdf src="/pdf/DC circuits.pdf" width="750px" height="620px" >}}
 
 ### Common errors include

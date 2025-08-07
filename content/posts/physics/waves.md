@@ -8,7 +8,7 @@ tags: ['physics']
 categories: ['physics']
 ---
 
-![Wave notes](/img/waves.JPG)
+<!--more-->
 
 > ### Common errors
 > 1. | Displacement-distance graph    | Displacement-time graph |

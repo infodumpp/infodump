@@ -10,7 +10,7 @@ tags: ['physics', 'notes']
 categories: ['physics']
 ---
 # This is a heading
-
+<!--more-->
 {{< embed-pdf src="/pdf/measurement.pdf" >}}
 
 ### Common errors include

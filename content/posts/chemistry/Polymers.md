@@ -10,7 +10,7 @@ tags: ['chemistry', 'notes']
 categories: ['chemistry']
 ---
 # This is a heading
-
+<!--more-->
 {{< embed-pdf src="/pdf/polymers.pdf" >}}
 
 ### Common errors include
