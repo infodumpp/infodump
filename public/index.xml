@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>infodump</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
+      <link>//localhost:1313/posts/physics/dc-circuits/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
+      <guid>//localhost:1313/posts/physics/dc-circuits/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinematics</title>
-      <link>http://localhost:1313/posts/physics/kinematics/</link>
+      <link>//localhost:1313/posts/physics/kinematics/</link>
       <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <guid>//localhost:1313/posts/physics/kinematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Work, energy, power</title>
-      <link>http://localhost:1313/posts/physics/workenergypower/</link>
+      <link>//localhost:1313/posts/physics/workenergypower/</link>
       <pubDate>Fri, 21 Mar 2025 12:38:28 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/workenergypower/</guid>
+      <guid>//localhost:1313/posts/physics/workenergypower/</guid>
       <description></description>
     </item>
     <item>
       <title>Atomic Structure</title>
-      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
+      <link>//localhost:1313/posts/chemistry/atomicstrcture/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
+      <guid>//localhost:1313/posts/chemistry/atomicstrcture/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemical Bonding</title>
-      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
+      <link>//localhost:1313/posts/chemistry/chemicalbonding/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
+      <guid>//localhost:1313/posts/chemistry/chemicalbonding/</guid>
       <description></description>
     </item>
     <item>
       <title>Measurement</title>
-      <link>http://localhost:1313/posts/physics/measurement/</link>
+      <link>//localhost:1313/posts/physics/measurement/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/measurement/</guid>
+      <guid>//localhost:1313/posts/physics/measurement/</guid>
       <description></description>
     </item>
     <item>
       <title>Polymers</title>
-      <link>http://localhost:1313/posts/chemistry/polymers/</link>
+      <link>//localhost:1313/posts/chemistry/polymers/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
+      <guid>//localhost:1313/posts/chemistry/polymers/</guid>
       <description></description>
     </item>
     <item>
       <title>Separation Techniques</title>
-      <link>http://localhost:1313/posts/chemistry/separation/</link>
+      <link>//localhost:1313/posts/chemistry/separation/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
+      <guid>//localhost:1313/posts/chemistry/separation/</guid>
       <description></description>
     </item>
     <item>
       <title>Waves</title>
-      <link>http://localhost:1313/posts/physics/waves/</link>
+      <link>//localhost:1313/posts/physics/waves/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/waves/</guid>
+      <guid>//localhost:1313/posts/physics/waves/</guid>
       <description></description>
     </item>
   </channel>
