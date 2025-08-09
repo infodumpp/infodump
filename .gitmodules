@@ -7,7 +7,4 @@
 [submodule "themes/hugo-theme-quint"]
 	path = themes/hugo-theme-quint
 	url = https://github.com/victoriadrake/hugo-theme-quint.git
-[submodule "themes/quint"]
-	path = themes/quint
-	url = https://github.com/victoriadrake/hugo-theme-quint.git
 
