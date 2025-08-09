@@ -4,3 +4,6 @@
 [submodule "themes/PaperMod"]
     path = themes/PaperMod
     url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-embed-pdf-shortcode"]
+    path = themes/hugo-embed-pdf-shortcode
+    url = https://github.com/foo/hugo-embed-pdf-shortcode.git
