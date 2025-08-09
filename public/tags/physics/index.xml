@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on infodump</title>
+    <link>http://localhost:1313/tags/physics/</link>
+    <description>Recent content in Physics on infodump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jul 2025 23:05:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DC Circuits</title>
+      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
+      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kinematics</title>
+      <link>http://localhost:1313/posts/physics/kinematics/</link>
+      <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work, energy, power</title>
+      <link>http://localhost:1313/posts/physics/workenergypower/</link>
+      <pubDate>Fri, 21 Mar 2025 12:38:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/workenergypower/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Measurement</title>
+      <link>http://localhost:1313/posts/physics/measurement/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/measurement/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Waves</title>
+      <link>http://localhost:1313/posts/physics/waves/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/waves/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
