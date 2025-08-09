@@ -9,8 +9,7 @@ cover:
 tags: ['chemistry', 'notes']
 categories: ['chemistry']
 ---
-# This is a heading
 <!--more-->
-{{< embed-pdf src="/pdf/polymers.pdf" >}}
+{{< embed-pdf src="/pdf/polymers.pdf" width="750px" height="620px">}}
 
 ### Common errors include

@@ -9,8 +9,7 @@ cover:
 tags: ['physics', 'notes']
 categories: ['physics']
 ---
-# This is a heading
 <!--more-->
-{{< embed-pdf src="/pdf/measurement.pdf" >}}
+{{< embed-pdf src="/pdf/measurement.pdf" width="750px" height="620px">}}
 
 ### Common errors include
