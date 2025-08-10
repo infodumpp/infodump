@@ -1,4 +1,4 @@
-baseURL: "http://infodumpblog.netlify.app/"
+baseURL: "https://infodumpblog.netlify.app/"
 languageCode: en-us
 title: infodump
 theme:
