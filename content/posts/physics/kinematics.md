@@ -10,5 +10,3 @@ categories: ['physics']
 <!--more-->
 
 {{< embed-pdf src="/pdf/kinematics.pdf" width="750px" height="620px">}}
-
-### Common errors include
