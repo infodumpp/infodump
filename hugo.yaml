@@ -1,4 +1,4 @@
-baseURL: "//localhost:1313/"
+baseURL: "https://infodumpblog.netlify.app/"
 languageCode: en-us
 title: infodump
 theme:

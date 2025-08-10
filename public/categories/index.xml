@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on infodump</title>
-    <link>//localhost:1313/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Physics</title>
-      <link>//localhost:1313/categories/physics/</link>
+      <link>http://localhost:1313/categories/physics/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/categories/physics/</guid>
+      <guid>http://localhost:1313/categories/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemistry</title>
-      <link>//localhost:1313/categories/chemistry/</link>
+      <link>http://localhost:1313/categories/chemistry/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/categories/chemistry/</guid>
+      <guid>http://localhost:1313/categories/chemistry/</guid>
       <description></description>
     </item>
   </channel>

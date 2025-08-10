@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chemistry on infodump</title>
-    <link>//localhost:1313/tags/chemistry/</link>
+    <link>http://localhost:1313/tags/chemistry/</link>
     <description>Recent content in Chemistry on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Mar 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atomic Structure</title>
-      <link>//localhost:1313/posts/chemistry/atomicstrcture/</link>
+      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/posts/chemistry/atomicstrcture/</guid>
+      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemical Bonding</title>
-      <link>//localhost:1313/posts/chemistry/chemicalbonding/</link>
+      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/posts/chemistry/chemicalbonding/</guid>
+      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
       <description></description>
     </item>
     <item>
       <title>Polymers</title>
-      <link>//localhost:1313/posts/chemistry/polymers/</link>
+      <link>http://localhost:1313/posts/chemistry/polymers/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/posts/chemistry/polymers/</guid>
+      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
       <description></description>
     </item>
     <item>
       <title>Separation Techniques</title>
-      <link>//localhost:1313/posts/chemistry/separation/</link>
+      <link>http://localhost:1313/posts/chemistry/separation/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>//localhost:1313/posts/chemistry/separation/</guid>
+      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
       <description></description>
     </item>
   </channel>
