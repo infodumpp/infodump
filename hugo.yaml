@@ -1,9 +1,9 @@
-baseURL: ""
+baseURL: "//localhost:1313/"
 languageCode: en-us
 title: infodump
 theme:
-  - hugo-embed-pdf-shortcode
   - hugo-theme-quint
+  - hugo-embed-pdf-shortcode
 enableInlineShortcodes: true
 
 taxonomies:
