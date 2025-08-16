@@ -13,7 +13,7 @@ taxonomies:
 params:
   customCSS: ["css/custom.css"]
   homeInfoParams:
-    Title: Hi Reader!"
+    Title: Hi!"
     caption: "These notes are based on the IGCSE/A-level syllabus..."
 
   adsense:  
