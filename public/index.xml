@@ -23,13 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Work, energy, power</title>
-      <link>http://localhost:1313/posts/physics/workenergypower/</link>
-      <pubDate>Fri, 21 Mar 2025 12:38:28 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/workenergypower/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Atomic Structure</title>
       <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
@@ -62,13 +55,6 @@
       <link>http://localhost:1313/posts/chemistry/separation/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/chemistry/separation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Waves</title>
-      <link>http://localhost:1313/posts/physics/waves/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/waves/</guid>
       <description></description>
     </item>
   </channel>

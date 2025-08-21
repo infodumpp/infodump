@@ -29,9 +29,6 @@
     <loc>http://localhost:1313/posts/physics/kinematics/</loc>
     <lastmod>2025-04-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/physics/workenergypower/</loc>
-    <lastmod>2025-03-21T12:38:28+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/chemistry/atomicstrcture/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
@@ -51,9 +48,6 @@
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/chemistry/separation/</loc>
-    <lastmod>2025-03-10T23:05:54+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/physics/waves/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url>
 </urlset>
