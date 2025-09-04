@@ -17,6 +17,9 @@ params:
   homeInfoParams:
     Title: Hi!"
     caption: "These notes are based on the IGCSE/A-level syllabus..."
+  contact: 
+    write me an email at [infoodump@gmail.com](mailto:infoodump@gmail.com)
+  disqusShortname: infodump-1
 
   adsense:  
     enable: true

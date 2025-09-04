@@ -9,5 +9,5 @@ categories: ['physics']
 
 <!--more-->
 
-# ⚡️ 
+# ⚡️
 {{< embed-pdf src="/pdf/DC circuits.pdf" width="750px" height="620px" >}}
