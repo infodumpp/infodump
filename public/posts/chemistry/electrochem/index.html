@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <link href="/images/fav/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+    <link href="/images/fav/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/images/fav/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+    <link href="/images/fav/site.webmanifest" rel="manifest"/>
+    <title>Electrochemistry | infodump</title>
+    <link href="/css/styles.css" rel="stylesheet"/>
+    <link href="/css/custom.css" rel="stylesheet"/>
+    
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4710986402681136" crossorigin="anonymous"></script>
+</head><body><header>
+    <div class="logo h-card">
+        <a class="u-url" href="http://localhost:1313/">
+            <img alt="Site Logo" class="site-logo u-photo" src="/images/logo.png"/>
+        </a>
+    </div>
+    <nav class="menu">
+        <ul>
+                <li>
+                    <a href="/categories/">Categories</a>
+                </li>
+                <li>
+                    <a href="/tags/">Tags</a>
+                </li>
+        </ul>
+    </nav>
+</header>
+
+    
+
+    <section class="hero"
+    style='background-image: url("/img/elec.JPG"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
+    id="heroSection" onload="adjustTextColor(this)">
+        <div>
+            <h1 class="p-name" id="textOverlay">Electrochemistry</h1>
+        </div>
+    </section>
+    <main class="post h-entry container row">
+        <div class="post">
+            <div class="post-data row">
+                <time class="dt-published" datetime="2025-10-01 23:05:54 &#43;0800 &#43;08">
+                    <a class="u-url" href="http://localhost:1313/posts/chemistry/electrochem/">Oct 1, 2025</a>
+                </time>
+                <span rel="author" class="p-author h-card">
+                    <img class="u-photo hidden" src="" />
+                    <span class="p-name hidden" rel="me"></span>
+                </span>
+            </div>
+            <div class="e-content">
+                <iframe src="/pdf/elec.pdf" width="750px" height="620px"></iframe>
+
+<h3 id="common-errors-include">Common errors include</h3>
+                
+                <span class="tag-container">
+                    
+                    <a class="p-category tag" href="/tags/chemistry/">
+                        chemistry
+                    </a>&nbsp;
+                    
+                    <a class="p-category tag" href="/tags/notes/">
+                        notes
+                    </a>&nbsp;
+                    
+                    <a class="p-category tag" href="/tags/s4/">
+                        S4
+                    </a>&nbsp;
+                    
+                </span>
+                
+            </div>
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_config = function () {
+                    this.page.url = 'http:\/\/localhost:1313\/posts\/chemistry\/electrochem\/';
+                    this.page.identifier = 'posts\/chemistry\/electrochem.md';
+                };
+                (function() { 
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://infodump-1.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the 
+              <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+            </noscript>            
+        </div>
+        
+    </main>
+    <script>
+        function adjustTextColor(sectionId) {
+            const section = document.getElementById(sectionId);
+            const style = window.getComputedStyle(section);
+            const imageUrl = style
+                .backgroundImage
+                .slice(4, -1)
+                .replace(/["']/g, "");
+            const image = new Image();
+            image.src = imageUrl;
+            image.onload = function () {
+                const canvas = document.createElement('canvas');
+                const context = canvas.getContext('2d');
+                canvas.width = image.width;
+                canvas.height = image.height;
+                context.drawImage(image, 0, 0, image.width, image.height);
+                const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
+                const data = imageData.data;
+                let r = 0,
+                    g = 0,
+                    b = 0;
+                for (let i = 0; i < data.length; i += 4) {
+                    r += data[i];
+                    g += data[i + 1];
+                    b += data[i + 2];
+                }
+                r /= (data.length / 4);
+                g /= (data.length / 4);
+                b /= (data.length / 4);
+                const brightness = Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b);
+                const textColor = brightness > 128
+                    ? 'black'
+                    : 'white';
+                const shadowColor = brightness > 128
+                    ? 'rgba(255, 255, 255, 0.7)'
+                    : 'rgba(0, 0, 0, 0.7)';
+                const textOverlay = document.getElementById('textOverlay');
+                textOverlay.style.color = textColor;
+                textOverlay.style.textShadow = `0 0 5px ${shadowColor}, 0 0 10px ${shadowColor}, 0 0 20px ${shadowColor}, 0 0 40px ${shadowColor}, 0 0 80px ${shadowColor}, 0 0 90px ${shadowColor}, 0 0 100px ${shadowColor}, 0 0 150px ${shadowColor}`;
+            };
+        }
+        
+        adjustTextColor('heroSection');
+    </script>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    const id = entry
+                        .target
+                        .getAttribute('id');
+
+                    if (entry.intersectionRatio > 0) {
+                        clearActiveStatesInTableOfContents();
+                        document
+                            .querySelector(`nav li a[href="#${id}"]`)
+                            .parentElement
+                            .classList
+                            .add('active');
+                    }
+                });
+            });
+            document
+                .querySelectorAll('h1[id],h2[id],h3[id],h4[id]')
+                .forEach((section) => {
+                    observerForTableOfContentActiveState.observe(section);
+                });
+
+        });
+
+        function clearActiveStatesInTableOfContents() {
+            document
+                .querySelectorAll('nav li')
+                .forEach((section) => {
+                    section
+                        .classList
+                        .remove('active');
+                });
+        }
+    </script>
+<footer>
+            
+    <div class="logo h-card">
+        <a class="u-url" href="http://localhost:1313/">
+            <img alt="Site Logo" class="site-logo u-photo" src="/images/logo.png"/>
+        </a>
+        <p>© 2025
+            infodump</p>
+    </div>
+    <nav>
+        <ul>
+                <li>
+                    <a href="/categories/">Categories</a>
+                </li>
+                <li>
+                    <a href="/tags/">Tags</a>
+                </li>
+        </ul>
+    </nav>
+    <script>
+    
+    window.siteParams = {
+        numImages:  10 
+    };
+    
+    window.store = {
+    
+    
+    "http:\/\/localhost:1313\/categories\/": {
+        
+        "title": "Categories",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/categories\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/categories\/chemistry\/": {
+        
+        "title": "Chemistry",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/categories\/chemistry\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/chemistry\/": {
+        
+        "title": "Chemistry",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/chemistry\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/electrochem\/": {
+        
+        "title": "Electrochemistry",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/electrochem\/",
+    "image": "\/img\/elec.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/": {
+        
+        "title": "infodump",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/notes\/": {
+        
+        "title": "Notes",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/notes\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/": {
+        
+        "title": "Posts",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/posts\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/redox\/": {
+        
+        "title": "Redox",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/redox\/",
+    "image": "\/img\/redox.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/s4\/": {
+        
+        "title": "S4",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/s4\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/": {
+        
+        "title": "Tags",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/pperiodicity\/": {
+        
+        "title": "Physical Periodicity",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/pperiodicity\/",
+    "image": "\/img\/pp.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/physics\/dc-circuits\/": {
+        
+        "title": "DC Circuits",
+            "tags": [ "physics",  "notes", ],
+    "content": "⚡️ ", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/dc-circuits\/",
+    "image": "\/img\/dccircuits.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/categories\/physics\/": {
+        
+        "title": "Physics",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/categories\/physics\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/physics\/": {
+        
+        "title": "Physics",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/physics\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/physics\/kinematics\/": {
+        
+        "title": "Kinematics",
+            "tags": [ "physics",  "notes", ],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/kinematics\/",
+    "image": "\/img\/kine.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/atomicstrcture\/": {
+        
+        "title": "Atomic Structure",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/atomicstrcture\/",
+    "image": "\/img\/atom.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/chemicalbonding\/": {
+        
+        "title": "Chemical Bonding",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/chemicalbonding\/",
+    "image": "\/img\/bond.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/physics\/measurement\/": {
+        
+        "title": "Measurement",
+            "tags": [ "physics",  "notes", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/measurement\/",
+    "image": "\/img\/atom.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/polymers\/": {
+        
+        "title": "Polymers",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include hi", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/polymers\/",
+    "image": "\/img\/pol.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/separation\/": {
+        
+        "title": "Separation Techniques",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Common errors include", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/separation\/",
+    "image": "\/img\/sep.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/y4\/": {
+        
+        "title": "Y4",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/y4\/",
+    "image": "",
+    "description": ""
+        },
+    
+    }
+</script>
+<script src="/js/lunr.min.js"></script>
+<script src="/js/search.js"></script>
+
+</footer></body>
+</html>

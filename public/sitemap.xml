@@ -41,6 +41,9 @@
     <loc>http://localhost:1313/tags/chemistry/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/chemistry/electrochem/</loc>
+    <lastmod>2025-03-10T23:05:54+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/physics/measurement/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
@@ -48,6 +51,9 @@
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/chemistry/separation/</loc>
+    <lastmod>2025-03-10T23:05:54+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/y4/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url>
 </urlset>
