@@ -2,7 +2,7 @@
 date: '2025-03-21T12:38:28+08:00'
 draft: true
 title: 'Work, energy, power'
-tags: ['physics','notes']
+tags: ['physics', 'notes','S3']
 categories: ['physics']
 ---
 

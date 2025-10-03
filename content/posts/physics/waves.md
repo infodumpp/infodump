@@ -5,7 +5,7 @@ title: 'Waves'
 #image: '/img/sep.JPG'
 cover: 
     caption: 'hi'
-tags: ['physics']
+tags: ['physics', 'notes','S4']
 categories: ['physics']
 ---
 

@@ -7,7 +7,7 @@ cover:
     caption: 'hi'
     width: '200px' 
     height: '200px' 
-tags: ['chemistry', 'notes','S4']
+tags: ['chemistry', 'notes','S3']
 categories: ['chemistry']
 ---
 

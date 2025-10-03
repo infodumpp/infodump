@@ -3,7 +3,7 @@ date: '2025-07-03T23:05:54+08:00'
 draft: false
 title: 'DC Circuits'
 image: '/img/dccircuits.JPG'
-tags: ['physics', 'notes']
+tags: ['physics', 'notes','S4']
 categories: ['physics']
 ---
 
