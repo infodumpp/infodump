@@ -6,8 +6,22 @@
     <description>Recent content in Posts on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Oct 2025 23:05:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 23:05:54 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic Equilibrium</title>
+      <link>http://localhost:1313/posts/chemistry/dyne/</link>
+      <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/dyne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thermodynamics</title>
+      <link>http://localhost:1313/posts/chemistry/thermo/</link>
+      <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/thermo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Electrochemistry</title>
       <link>http://localhost:1313/posts/chemistry/electrochem/</link>
