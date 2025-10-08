@@ -12,5 +12,3 @@ categories: ['chemistry']
 ---
 <!--more-->
 {{< embed-pdf src="/pdf/polymers.pdf" width="750px" height="620px">}}
-
-### Common errors include hi

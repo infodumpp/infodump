@@ -14,7 +14,7 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/acids.pdf" width="750px" height="620px">}}
 
-# Common errors include
+# 🚨 Important pointers
 {{< box >}}
 <u>Acids and Bases</u>
 1. Always check reactivity series to see if metal reacts

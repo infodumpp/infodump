@@ -14,4 +14,11 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/elec.pdf" width="850px" height="620px">}}
 
-### Common errors include
+# 🚨 Important pointers
+{{< box >}}
+1. to prevent iron rusting you need another metal to be oxidised instead 
+2. Fe (and other elements) will oxidize to Fe+2 then +3 (has to increase)
+3. H2O =>
+Anode (ox): +1.23V
+Cathode (red): -0.83V
+{{< /box >}}

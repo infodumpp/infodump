@@ -14,4 +14,10 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/pp.pdf" width="750px" height="620px">}}
 
-### Common errors include
+# 🚨 Important pointers
+{{< box >}}
+1. State symbol (g) for representing ionisation energy
+2. Trend of ionic radius depends on protons most of the time (isoelectric)
+{{< /box >}}
+
+

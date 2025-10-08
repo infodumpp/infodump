@@ -14,4 +14,3 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/redox.pdf" width="750px" height="620px">}}
 
-### Common errors include

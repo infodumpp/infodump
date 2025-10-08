@@ -14,4 +14,7 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/kinetics.pdf" width="750px" height="620px">}}
 
-### Common errors include
+# 🚨 Important pointers
+{{< box >}}
+1. The limiting regent does not impact rate, only causes the reaction to reach equilibrium earlier
+{{< /box >}}

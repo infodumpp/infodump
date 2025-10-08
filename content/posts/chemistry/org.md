@@ -14,4 +14,7 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/org.pdf" width="750px" height="620px">}}
 
-### Common errors include
+# 🚨 Important pointers
+{{< box >}}
+1. prop-1-ene does not exist as there is only 1 way to configure C3H6
+{{< /box >}}

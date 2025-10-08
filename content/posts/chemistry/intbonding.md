@@ -14,7 +14,7 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/intbond.pdf" width="800px" height="620px">}}
 
-# Common errors include
+# 🚨 Important pointers
 {{< box >}}
 <u>Bonding</u>
 1. The least electronegative is in the center

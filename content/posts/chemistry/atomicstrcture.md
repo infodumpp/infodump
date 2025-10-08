@@ -14,7 +14,7 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/atomicstructure.pdf" width="800px" height="620px">}}
 
-# Common errors include
+# 🚨 Important pointers
 {{< box >}}
 1. Whole column Cr and Cu have configuration of s1 d5/10 as it is more stable
 2. The Period number of an element indicates the number of occupied principal quantum shells in an atom of any main group element.

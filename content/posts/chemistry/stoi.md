@@ -14,8 +14,7 @@ categories: ['chemistry']
 <!--more-->
 {{< embed-pdf src="/pdf/stoi.pdf" width="800px" height="620px">}}
 
-# Common errors include
-
+# 🚨 Important pointers
 {{< box >}}
 1. Molar mass ≠ Mr (Mr has no units)
 2. Mr is only up to 1dp
