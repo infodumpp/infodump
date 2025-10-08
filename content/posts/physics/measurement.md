@@ -2,12 +2,12 @@
 date: '2025-03-10T23:05:54+08:00'
 draft: false
 title: 'Measurement'
-image: '/img/atom.JPG'
+image: '/img/measure.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
     height: '200px' 
-tags: ['physics', 'notes']
+tags: ['physics', 'notes','S3']
 categories: ['physics']
 ---
 <!--more-->

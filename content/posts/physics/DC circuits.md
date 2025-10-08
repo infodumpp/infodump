@@ -1,6 +1,6 @@
 ---
 date: '2025-07-03T23:05:54+08:00'
-draft: false
+draft: true
 title: 'DC Circuits'
 image: '/img/dccircuits.JPG'
 tags: ['physics', 'notes','S4']

@@ -12,6 +12,6 @@ categories: ['chemistry']
 ---
 
 <!--more-->
-{{< embed-pdf src="/pdf/elec.pdf" width="750px" height="620px">}}
+{{< embed-pdf src="/pdf/elec.pdf" width="850px" height="620px">}}
 
 ### Common errors include

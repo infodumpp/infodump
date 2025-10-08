@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>The Cold War</title>
+      <link>http://localhost:1313/posts/history/coldwar/</link>
+      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/history/coldwar/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dynamic Equilibrium</title>
       <link>http://localhost:1313/posts/chemistry/dyne/</link>
       <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
@@ -48,13 +55,6 @@
       <link>http://localhost:1313/posts/chemistry/pperiodicity/</link>
       <pubDate>Mon, 01 Sep 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/chemistry/pperiodicity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
-      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
       <description></description>
     </item>
     <item>

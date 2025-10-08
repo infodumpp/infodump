@@ -12,6 +12,12 @@ categories: ['chemistry']
 ---
 
 <!--more-->
-{{< embed-pdf src="/pdf/atomicstructure.pdf" width="750px" height="620px">}}
+{{< embed-pdf src="/pdf/atomicstructure.pdf" width="800px" height="620px">}}
 
-### Common errors include
+# Common errors include
+{{< box >}}
+1. Whole column Cr and Cu have configuration of s1 d5/10 as it is more stable
+2. The Period number of an element indicates the number of occupied principal quantum shells in an atom of any main group element.
+3. 4s is always removed before 3d
+4. If element A displaces element B from a solution containing the stable ions of element B, then A is more electronegative than B
+{{< /box >}}
