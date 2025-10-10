@@ -6,7 +6,7 @@
     <link href="/images/fav/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
     <link href="/images/fav/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
     <link href="/images/fav/site.webmanifest" rel="manifest"/>
-    <title>History | infodump</title>
+    <title>Static Electricity | infodump</title>
     <link href="/css/styles.css" rel="stylesheet"/>
     <link href="/css/custom.css" rel="stylesheet"/>
     
@@ -30,43 +30,157 @@
     </nav>
 </header>
 
-    <section class="hero">
-        <h1 class="p-name">History</h1>
-        <form action='' class="form-inline" id="search" method="get">
-    <label for="search-input" hidden="">Search site</label>
-    <input id="search-input" name="query" placeholder="Type here to search" type="text"/>
-    <button type="submit" value="search">Search</button>
-</form>
-
-    </section>
-    <main class="h-entry e-content container col">
-        
-        
-
-  
-  
-  
-
-<div class="cards" id="results">
     
-        <div class="card h-entry">
-            <a href="http://localhost:1313/posts/history/coldwar/" class="u-url">
-                
-                    <img src="/img/coldwar.JPG" alt="History" class="u-photo">
-                
-                <div class="text">
-                    <h2 class="p-name">The Cold War</h2>
-                    <p class="small e-content">
-                    </p>
-                </div>
-            </a>
+
+    <section class="hero"
+    style='background-image: url("/img/statice.JPG"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
+    id="heroSection" onload="adjustTextColor(this)">
+        <div>
+            <h1 class="p-name" id="textOverlay">Static Electricity</h1>
         </div>
-    
-</div>
+    </section>
+    <main class="post h-entry container row">
+        <div class="post">
+            <div class="post-data row">
+                <time class="dt-published" datetime="2025-10-08 23:05:54 &#43;0800 &#43;08">
+                    <a class="u-url" href="http://localhost:1313/posts/physics/statice/">Oct 8, 2025</a>
+                </time>
+                <span rel="author" class="p-author h-card">
+                    <img class="u-photo hidden" src="" />
+                    <span class="p-name hidden" rel="me"></span>
+                </span>
+            </div>
+            <div class="e-content">
+                <iframe src="/pdf/statice.pdf" width="800px" height="620px"></iframe>
 
+<h1 id="-important-pointers">🚨 Important pointers</h1>
+<div style="border: 1px solid black; padding: 10px;">
+    <ol>
+<li>If an object is neutrally charged, + = -</li>
+<li>(+) charges never move, rather they are deficient in e-</li>
+<li>Insulators are used to prevent items from being earthed as e- can flow in and out from earth/ e cant transfer</li>
+<li>Electrons transfer until they reach an equilibrium</li>
+<li>If an object is negatively charged, it has electrons all through out</li>
+</ol>
 
-
+  </div>
+                
+                <span class="tag-container">
+                    
+                    <a class="p-category tag" href="/tags/physics/">
+                        physics
+                    </a>&nbsp;
+                    
+                    <a class="p-category tag" href="/tags/notes/">
+                        notes
+                    </a>&nbsp;
+                    
+                    <a class="p-category tag" href="/tags/s4/">
+                        S4
+                    </a>&nbsp;
+                    
+                </span>
+                
+            </div>
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_config = function () {
+                    this.page.url = 'http:\/\/localhost:1313\/posts\/physics\/statice\/';
+                    this.page.identifier = 'posts\/physics\/StaticE.md';
+                };
+                (function() { 
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://infodump-1.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the 
+              <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+            </noscript>            
+        </div>
+        
     </main>
+    <script>
+        function adjustTextColor(sectionId) {
+            const section = document.getElementById(sectionId);
+            const style = window.getComputedStyle(section);
+            const imageUrl = style
+                .backgroundImage
+                .slice(4, -1)
+                .replace(/["']/g, "");
+            const image = new Image();
+            image.src = imageUrl;
+            image.onload = function () {
+                const canvas = document.createElement('canvas');
+                const context = canvas.getContext('2d');
+                canvas.width = image.width;
+                canvas.height = image.height;
+                context.drawImage(image, 0, 0, image.width, image.height);
+                const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
+                const data = imageData.data;
+                let r = 0,
+                    g = 0,
+                    b = 0;
+                for (let i = 0; i < data.length; i += 4) {
+                    r += data[i];
+                    g += data[i + 1];
+                    b += data[i + 2];
+                }
+                r /= (data.length / 4);
+                g /= (data.length / 4);
+                b /= (data.length / 4);
+                const brightness = Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b);
+                const textColor = brightness > 128
+                    ? 'black'
+                    : 'white';
+                const shadowColor = brightness > 128
+                    ? 'rgba(255, 255, 255, 0.7)'
+                    : 'rgba(0, 0, 0, 0.7)';
+                const textOverlay = document.getElementById('textOverlay');
+                textOverlay.style.color = textColor;
+                textOverlay.style.textShadow = `0 0 5px ${shadowColor}, 0 0 10px ${shadowColor}, 0 0 20px ${shadowColor}, 0 0 40px ${shadowColor}, 0 0 80px ${shadowColor}, 0 0 90px ${shadowColor}, 0 0 100px ${shadowColor}, 0 0 150px ${shadowColor}`;
+            };
+        }
+        
+        adjustTextColor('heroSection');
+    </script>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    const id = entry
+                        .target
+                        .getAttribute('id');
+
+                    if (entry.intersectionRatio > 0) {
+                        clearActiveStatesInTableOfContents();
+                        document
+                            .querySelector(`nav li a[href="#${id}"]`)
+                            .parentElement
+                            .classList
+                            .add('active');
+                    }
+                });
+            });
+            document
+                .querySelectorAll('h1[id],h2[id],h3[id],h4[id]')
+                .forEach((section) => {
+                    observerForTableOfContentActiveState.observe(section);
+                });
+
+        });
+
+        function clearActiveStatesInTableOfContents() {
+            document
+                .querySelectorAll('nav li')
+                .forEach((section) => {
+                    section
+                        .classList
+                        .remove('active');
+                });
+        }
+    </script>
 <footer>
             
     <div class="logo h-card">
@@ -106,28 +220,6 @@
         },
     
     
-    "http:\/\/localhost:1313\/categories\/chemistry\/": {
-        
-        "title": "Chemistry",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/categories\/chemistry\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/tags\/chemistry\/": {
-        
-        "title": "Chemistry",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/tags\/chemistry\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
     "http:\/\/localhost:1313\/": {
         
         "title": "infodump",
@@ -135,17 +227,6 @@
     "content": "", 
     "url": "http:\/\/localhost:1313\/",
     "image": "",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/posts\/chemistry\/intbonding\/": {
-        
-        "title": "Intermolecular bonding",
-            "tags": [ "chemistry",  "notes",  "S3", ],
-    "content": " 🚨 Important pointers Bonding\nThe least electronegative is in the center Atoms from 3rd period onwards can have more than octet for valence Try to always fulfill octet- even if it includes dative Structure\npolyatomic ions (made of covalent) are ionic Count the pi and sigma bonds between bonded elements even if not shown (draw them yourself!) Forces of attraction present in ionic aq substance are ion dipole and hydrogen bonding - no ionic Metallic bonds are non-directional Intermolecular bonds\nWhen looking for the largest net dipole moment, look for the most electronegative first Anything above trigonal planar does not lie on the same plane All molecules have idid between one another ", 
-    "url": "http:\/\/localhost:1313\/posts\/chemistry\/intbonding\/",
-    "image": "\/img\/intbond.JPG",
     "description": ""
         },
     
@@ -194,6 +275,72 @@
         },
     
     
+    "http:\/\/localhost:1313\/tags\/s4\/": {
+        
+        "title": "S4",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/s4\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/physics\/statice\/": {
+        
+        "title": "Static Electricity",
+            "tags": [ "physics",  "notes",  "S4", ],
+    "content": " 🚨 Important pointers If an object is neutrally charged, + = - (+) charges never move, rather they are deficient in e- Insulators are used to prevent items from being earthed as e- can flow in and out from earth/ e cant transfer Electrons transfer until they reach an equilibrium If an object is negatively charged, it has electrons all through out ", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/statice\/",
+    "image": "\/img\/statice.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/": {
+        
+        "title": "Tags",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/categories\/chemistry\/": {
+        
+        "title": "Chemistry",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/categories\/chemistry\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/chemistry\/": {
+        
+        "title": "Chemistry",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/chemistry\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/intbonding\/": {
+        
+        "title": "Intermolecular bonding",
+            "tags": [ "chemistry",  "notes",  "S3", ],
+    "content": " 🚨 Important pointers Bonding\nThe least electronegative is in the center Atoms from 3rd period onwards can have more than octet for valence Try to always fulfill octet- even if it includes dative Structure\npolyatomic ions (made of covalent) are ionic Count the pi and sigma bonds between bonded elements even if not shown (draw them yourself!) Forces of attraction present in ionic aq substance are ion dipole and hydrogen bonding - no ionic Metallic bonds are non-directional Intermolecular bonds\nWhen looking for the largest net dipole moment, look for the most electronegative first Anything above trigonal planar does not lie on the same plane All molecules have idid between one another ", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/intbonding\/",
+    "image": "\/img\/intbond.JPG",
+    "description": ""
+        },
+    
+    
     "http:\/\/localhost:1313\/posts\/physics\/pressure\/": {
         
         "title": "Pressure",
@@ -216,17 +363,6 @@
         },
     
     
-    "http:\/\/localhost:1313\/tags\/s4\/": {
-        
-        "title": "S4",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/tags\/s4\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
     "http:\/\/localhost:1313\/posts\/chemistry\/stoi\/": {
         
         "title": "Stoichiometry",
@@ -234,17 +370,6 @@
     "content": " 🚨 Important pointers Molar mass ≠ Mr (Mr has no units) Mr is only up to 1dp Have to x(no. of atoms) when multiplying by Avogadro’s constant ", 
     "url": "http:\/\/localhost:1313\/posts\/chemistry\/stoi\/",
     "image": "\/img\/stoi.JPG",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/tags\/": {
-        
-        "title": "Tags",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/tags\/",
-    "image": "",
     "description": ""
         },
     

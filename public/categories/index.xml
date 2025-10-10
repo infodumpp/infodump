@@ -16,17 +16,17 @@
       <description></description>
     </item>
     <item>
+      <title>Physics</title>
+      <link>http://localhost:1313/categories/physics/</link>
+      <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/categories/physics/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>History</title>
       <link>http://localhost:1313/categories/history/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/categories/history/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Physics</title>
-      <link>http://localhost:1313/categories/physics/</link>
-      <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/categories/physics/</guid>
       <description></description>
     </item>
   </channel>
