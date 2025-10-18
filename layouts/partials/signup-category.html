@@ -1,0 +1,29 @@
+<!-- Partial: signup-category.html
+  Displays an email input and includes a hidden 'category' value pulled from page frontmatter.
+  Replace PROVIDER_FORM_ACTION and PROVIDER_HIDDEN_FIELDS with the form data from your email provider.
+-->
+<div class="signup-category" style="border:1px solid #eee;padding:12px;border-radius:6px;margin-top:1rem;">
+  <h4>Get updates for this category</h4>
+  <p style="margin-top:0.25rem;font-size:0.95rem;color:#555;">
+    Subscribe to receive new posts in <strong>{{ with index .Params.categories 0 }}{{ . }}{{ else }}General{{ end }}</strong>.
+  </p>
+
+  <!-- Replace action URL & hidden inputs with your provider's embedded form code -->
+  <form action="PROVIDER_FORM_ACTION" method="post" target="_blank">
+    <label style="display:block;margin-bottom:6px;">
+      <input name="EMAIL" type="email" placeholder="Your email" required style="padding:8px;width:100%;box-sizing:border-box;">
+    </label>
+
+    <!-- Hidden field that carries the category; provider must support tags/groups via a field -->
+    <input type="hidden" name="CATEGORY" value="{{ with index .Params.categories 0 }}{{ . }}{{ else }}General{{ end }}">
+
+    <!-- Replace the following with any provider-specific hidden inputs (api key, list id, etc.) -->
+    <!-- PROVIDER_HIDDEN_FIELDS -->
+
+    <button type="submit" style="margin-top:8px;padding:8px 12px;border:0;background:#111;color:#fff;border-radius:4px;">
+      Subscribe
+    </button>
+  </form>
+
+  <p style="font-size:0.85rem;color:#777;margin-top:8px;">You can unsubscribe anytime.</p>
+</div>
