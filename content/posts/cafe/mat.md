@@ -146,7 +146,7 @@ categories: ['connoisseur']
         </tr>
       </thead>
       <tbody>
-        <tr><td style='padding: 8px;'>Cheese Matcha Latte</td><td>$7.80</td><td>4.2/5</td><td>3.8/5</td><td>Rich cream cheese foam complements matcha well.</td></tr>
+        <tr><td style='padding: 8px;'>Cloud matcha latte</td><td>$7.80</td><td>4.2/5</td><td>3.8/5</td><td>Rich cream cheese foam complements matcha well.</td></tr>
       </tbody>
     </table>
   </div>

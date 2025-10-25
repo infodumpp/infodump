@@ -157,6 +157,13 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/posts/cafe/workcafe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cafe/workcafe/</guid>
+      <description>&lt;p&gt;crowded, prices, plugs&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/posts/coding/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/coding/markdown/</guid>
