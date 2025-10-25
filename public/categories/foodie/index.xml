@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foodie on infodump</title>
+    <link>http://localhost:1313/categories/foodie/</link>
+    <description>Recent content in Foodie on infodump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Oct 2025 23:05:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/foodie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimate Matcha Review</title>
+      <link>http://localhost:1313/posts/foodie/matcha/</link>
+      <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/foodie/matcha/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
