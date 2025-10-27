@@ -2,7 +2,7 @@
 date: '2025-10-20T23:05:54+08:00'
 draft: false
 title: 'Ultimate Milk Tea Guide'
-image: '/img/matcha.JPG'
+image: '/img/chicha.JPG'
 cover: 
 tags: ['connoisseur','food']
 categories: ['connoisseur']
@@ -39,7 +39,7 @@ categories: ['connoisseur']
 
 ## 🍹 San Chen / Chicia
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
-  <img src='/img/chicha.JPG' alt='San Chen / Chicia Pearl Milk Tea' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/chicha.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -66,7 +66,7 @@ categories: ['connoisseur']
 
 ---
 
-## 🍹 HEYTEA
+## HEYTEA
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 2rem;'>
   <img src='/img/heytea_milktea.jpg' alt='Heytea Brown Sugar Bobo Milk Tea' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
@@ -95,9 +95,10 @@ categories: ['connoisseur']
 
 ---
 
-## 🍹 Chagee
+## Chagee
+### not your cup of tea if you must have pearls
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
-  <img src='/img/chagee.jpg' alt='Chagee Tie Guan Yin' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/chagee.jpg' alt='Chagee Tie Guan Yin' style='width: 200px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -115,14 +116,14 @@ categories: ['connoisseur']
           <td>$5.20</td>
           <td>3.8/5</td>
           <td>3.8/5</td>
-          <td>Soothing taste, tastes similar to oolong, not your cup of tea if you must have pearls.</td>
+          <td>Soothing taste, tastes similar to oolong</td>
         </tr>
         <tr>
           <td style='padding: 8px;'>Osmanthus Oolong Tea</td>
           <td>$4.90</td>
           <td>3.8/5</td>
           <td>3.8/5</td>
-          <td>Soothing taste, tastes similar to Tie Guan Yin, not your cup of tea if you must have pearls.</td>
+          <td>Soothing taste, tastes similar to Tie Guan Yin</td>
         </tr>
         <tr>
           <td style='padding: 8px;'>Rose Pu Er Milk Tea</td>
@@ -131,6 +132,13 @@ categories: ['connoisseur']
           <td>2/5</td>
           <td>Does not taste great.</td>
         </tr>
+        <tr>
+          <td style='padding: 8px;'>Da Hong Pao</td>
+          <td>$4.90</td>
+          <td>3.8/5</td>
+          <td>3.8/5</td>
+          <td>Soothing taste, tastes similar to Tie Guan Yin</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -138,7 +146,7 @@ categories: ['connoisseur']
 
 ---
 
-## 🍹 LiHO
+## LiHO
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 2rem;'>
   <img src='/img/liho.jpg' alt='LiHO Classic Milk Tea' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
@@ -205,7 +213,7 @@ categories: ['connoisseur']
 
 ## 🍹 Tiger Sugar
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 2rem;'>
-  <img src='/img/tigersugar.jpg' alt='Tiger Sugar Brown Sugar Boba Milk' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/tiger.jpg' alt='Tiger Sugar Brown Sugar Boba Milk' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>

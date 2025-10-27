@@ -15,7 +15,7 @@ categories: ['connoisseur']
 
 ## Starbucks
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 2rem;'>
-  <img src='/img/star.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/star.jpg' style='width: 240px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -30,7 +30,7 @@ categories: ['connoisseur']
       <tbody>
         <tr><td style='padding: 8px;'>Matcha Latte</td><td>$7.70</td><td>3.8/5</td><td>3.6/5</td><td>A classic</td></tr>
         <tr><td style='padding: 8px;'>Matcha Strawberry Latte</td><td>$8.30</td><td>3.9/5</td><td>3.6/5</td><td>Good pairing of strawberry and matcha</td></tr>
-        <tr><td style='padding: 8px;'>Matcha Pistachio Latte</td><td>$8.30</td><td>2.5/5</td><td>2/5</td><td>Pistachio overpowers the matcha :(</td></tr>
+        <tr><td style='padding: 8px;'>Matcha Pistachio Latte</td><td>$8.30</td><td>2.5/5</td><td>2/5</td><td>Pistachio overpowers the matcha</td></tr>
       </tbody>
     </table>
   </div>
@@ -87,7 +87,7 @@ categories: ['connoisseur']
 
 ## Hello Arigato
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
-  <img src='/img/har.jpg' alt='Hello Arigato Matcha Latte' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/har.jpg' alt='Hello Arigato Matcha Latte' style='width: 200px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -133,7 +133,7 @@ categories: ['connoisseur']
 
 ## HEYTEA
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
-  <img src='/img/heytea.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/heytea.jpg' style='width: 200px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -146,7 +146,10 @@ categories: ['connoisseur']
         </tr>
       </thead>
       <tbody>
-        <tr><td style='padding: 8px;'>Cloud matcha latte</td><td>$7.80</td><td>4.2/5</td><td>3.8/5</td><td>Rich cream cheese foam complements matcha well.</td></tr>
+        <tr><td style='padding: 8px;'>Cloud matcha latte</td><td>$6.90</td><td>3.9/5</td><td>4.5/5</td><td>Amazing in its own right, but would not be picked over the supreme matcha latte or triple matcha latte</td></tr>
+        <tr><td style='padding: 8px;'>Supreme matcha latte</td><td>$6.90</td><td>4.5/5</td><td>4.5/5</td><td>includes matcha jelly at the bottom </td></tr>
+        <tr><td style='padding: 8px;'>Triple matcha latte</td><td>$6.90</td><td>3.9/5</td><td>4.5/5</td><td>Similar taste to the supreme matcha latte, but with additional foam on top </td></tr>
+          <tr><td style='padding: 8px;'>HEYTEA x Wicked matcha Pomelo</td><td>$6.90</td><td>4/5</td><td>4.5/5</td><td>Surprisingly delicious combination, both refreshing and rich </td></tr>
       </tbody>
     </table>
   </div>
