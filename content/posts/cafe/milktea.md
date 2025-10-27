@@ -2,7 +2,7 @@
 date: '2025-10-20T23:05:54+08:00'
 draft: false
 title: 'Ultimate Milk Tea Guide'
-image: '/img/chicha.JPG'
+image: '/img/chicha.jpg'
 cover: 
 tags: ['connoisseur','food']
 categories: ['connoisseur']
@@ -10,7 +10,7 @@ categories: ['connoisseur']
 <!--more-->
 ## 🍹 iTea
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 2rem;'>
-  <img src='/img/itea.jpg' alt='iTea Pearl Milk Tea' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/itea.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -37,7 +37,7 @@ categories: ['connoisseur']
 
 ---
 
-## 🍹 San Chen / Chicia
+## CHICHA San Chen 吃茶三千
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
   <img src='/img/chicha.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
@@ -175,9 +175,9 @@ categories: ['connoisseur']
 
 ---
 
-## 🍹 YiFang
+## YiFang
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
-  <img src='/img/yifang.jpg' alt='YiFang Double Tea Latte' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/yifang.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
@@ -240,9 +240,9 @@ categories: ['connoisseur']
 
 ---
 
-## 🍹 KOI
+## KOI
 <div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: row-reverse; margin-bottom: 2rem;'>
-  <img src='/img/koi.jpg' alt='KOI Jumbo Milk Tea' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <img src='/img/koi.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
   <div style='flex: 1; min-width: 300px;'>
     <table style='border-collapse: collapse; width: 100%;'>
       <thead>
