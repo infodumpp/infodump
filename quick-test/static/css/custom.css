@@ -1,0 +1,41 @@
+/* static/css/custom.css */
+
+/* Container for buttons */
+#filter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    margin: 1rem 0 2rem;
+  }
+  
+  /* Button base */
+  .filter-btn {
+    background-color: #456882;    /* primary color — change if you want */
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: transform 0.12s ease, background-color 0.12s ease;
+    box-shadow: 0 4px 10px rgba(15, 23, 42, 0.06);
+  }
+  
+  /* Smaller look on narrow screens */
+  @media (max-width: 520px) {
+    .filter-btn { padding: 6px 10px; font-size: 0.85rem; }
+  }
+  
+  /* Hover and active state */
+  .filter-btn:hover {
+    transform: translateY(-2px);
+    background-color: #95adbf; /* hover color */
+  }
+  
+  .filter-btn.active {
+    background-color: #95adbf; /* active color */
+    color: #fff;
+    box-shadow: 0 6px 16px rgba(15, 23, 42, 0.12);
+  }
+  

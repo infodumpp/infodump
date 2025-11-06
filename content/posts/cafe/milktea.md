@@ -4,8 +4,8 @@ draft: false
 title: 'Ultimate Milk Tea Guide'
 image: '/img/chicha.jpg'
 cover: 
-tags: ['connoisseur','food']
-categories: ['connoisseur']
+tags: ['food connoisseur','food']
+categories: ['food connoisseur']
 ---
 <!--more-->
 ## 🍹 iTea
@@ -83,7 +83,7 @@ categories: ['connoisseur']
       <tbody>
         <tr>
           <td style='padding: 8px;'>Brown Sugar Bobo Milk</td>
-          <td>$8.10</td>
+          <td>$6.50</td>
           <td>4/5</td>
           <td>3.8/5</td>
           <td>Rich milk taste</td>

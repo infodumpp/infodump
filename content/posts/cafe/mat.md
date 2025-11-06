@@ -4,8 +4,8 @@ draft: false
 title: 'Ultimate Matcha Guide'
 image: '/img/matcha.JPG'
 cover: 
-tags: ['connoisseur','food']
-categories: ['connoisseur']
+tags: ['food connoisseur','food']
+categories: ['food connoisseur']
 ---
 
 <!--more-->

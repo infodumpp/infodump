@@ -9,13 +9,12 @@ enableInlineShortcodes: true
 disqusShortname: infodump
 
 taxonomies:
-  category: categories
   tag: tags
 
 params:
   customCSS: ["css/custom.css"]
   homeInfoParams:
-    Title: Hi!"
+    Title: Hi!
     caption: "These notes are based on the IGCSE/A-level syllabus..."
   contact: 
     write me an email at [infoodump@gmail.com](mailto:infoodump@gmail.com)
@@ -37,11 +36,13 @@ markup:
 
 menu:
   main:
-  - identifier: categories
-    name: Categories
-    url: /categories/
-    weight: 10
   - identifier: tags
     name: Tags
     url: /tags/
+    weight: 10
+  - identifier: About
+    name: About
+    url: /about/
     weight: 20
+
+disableKinds: ["taxonomy", "taxonomyTerm"]

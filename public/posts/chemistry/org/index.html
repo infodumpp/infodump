@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   
@@ -10,13 +12,18 @@
     <title>Organic Chemistry | infodump</title>
     <link href="/css/styles.css" rel="stylesheet"/>
     <link href="/css/custom.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="/css/custom.css">
   
     
   
     
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4710986402681136" crossorigin="anonymous"></script>
   </head>
-  <body><header>
+  
+    <link rel="stylesheet" href="/css/custom.css">
+  </head>
+  <body>
+    <header>
     <div class="logo h-card">
         <a class="u-url" href="http://localhost:1313/">
             <img alt="Site Logo" class="site-logo u-photo" src="/img/favicon.ico" style="width: 100px; height: auto;"/>
@@ -25,15 +32,17 @@
     <nav class="menu">
         <ul>
                 <li>
-                    <a href="/categories/">Categories</a>
+                    <a href="/tags/">Tags</a>
                 </li>
                 <li>
-                    <a href="/tags/">Tags</a>
+                    <a href="/about/">About</a>
                 </li>
         </ul>
     </nav>
 </header>
 
+
+    
     
 
     <section class="hero"
@@ -181,7 +190,9 @@
                 });
         }
     </script>
-<footer>
+
+
+    <footer>
             
     <div class="logo h-card">
         <a class="u-url" href="http://localhost:1313/">
@@ -192,10 +203,10 @@
     <nav>
         <ul>
                 <li>
-                    <a href="/categories/">Categories</a>
+                    <a href="/tags/">Tags</a>
                 </li>
                 <li>
-                    <a href="/tags/">Tags</a>
+                    <a href="/about/">About</a>
                 </li>
         </ul>
     </nav>
@@ -208,45 +219,23 @@
     window.store = {
     
     
-    "http:\/\/localhost:1313\/categories\/": {
-        
-        "title": "Categories",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/categories\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/categories\/connoisseur\/": {
-        
-        "title": "Connoisseur",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/categories\/connoisseur\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/tags\/connoisseur\/": {
-        
-        "title": "Connoisseur",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/tags\/connoisseur\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
     "http:\/\/localhost:1313\/tags\/food\/": {
         
         "title": "Food",
             "tags": [],
     "content": "", 
     "url": "http:\/\/localhost:1313\/tags\/food\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/food-connoisseur\/": {
+        
+        "title": "Food Connoisseur",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/food-connoisseur\/",
     "image": "",
     "description": ""
         },
@@ -274,21 +263,10 @@
         },
     
     
-    "http:\/\/localhost:1313\/tags\/": {
-        
-        "title": "Tags",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/tags\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
     "http:\/\/localhost:1313\/posts\/cafe\/mat\/": {
         
         "title": "Ultimate Matcha Guide",
-            "tags": [ "connoisseur",  "food", ],
+            "tags": [ "food connoisseur",  "food", ],
     "content": "🍵 Matcha Drinks Review Starbucks Item Price Taste Value Comments Matcha Latte$7.703.8/53.6/5A classic Matcha Strawberry Latte$8.303.9/53.6/5Good pairing of strawberry and matcha Matcha Pistachio Latte$8.302.5/52/5Pistachio overpowers the matcha Luckin Coffee Item Price Taste Value Comments Matcha Latte$8.002.8/51.5/5Overly sweet, lacking true matcha flavor Matcha Jasmine Frappe$8.002.5/51.5/5Jasmine overwhelms the drink, too sugary Kamakura Matcha Item Price Taste Value Comments Matcha Latte$7.904/53/5Mochi at the bottom complements the drink; pricey for size. Hello Arigato Item Price Taste Value Comments Iced Matcha Latte$7.004.5/54/5Tastes great but not a lot of drink for the price Hvala Item Price Taste Value Comments Tsuki matcha latte$8.504.3/53.5/5Slightly bitter, but great value for money as large volume of drink is given HEYTEA Item Price Taste Value Comments Cloud matcha latte$6.903.9/54.5/5Amazing in its own right, but would not be picked over the supreme matcha latte or triple matcha latte Supreme matcha latte$6.904.5/54.5/5includes matcha jelly at the bottom Triple matcha latte$6.903.9/54.5/5Similar taste to the supreme matcha latte, but with additional foam on top HEYTEA x Wicked matcha Pomelo$6.904/54.5/5Surprisingly delicious combination, both refreshing and rich ", 
     "url": "http:\/\/localhost:1313\/posts\/cafe\/mat\/",
     "image": "\/img\/matcha.JPG",
@@ -299,8 +277,8 @@
     "http:\/\/localhost:1313\/posts\/cafe\/milktea\/": {
         
         "title": "Ultimate Milk Tea Guide",
-            "tags": [ "connoisseur",  "food", ],
-    "content": "🍹 iTea Item Price Taste Value Comments Pearl Milk Tea $2.90 3.5/5 4/5 May taste diluted if too much ice melts. CHICHA San Chen 吃茶三千 Item Price Taste Value Comments Pearl Milk Tea $5.60 5/5 3.6/5 Absolutely delicious, authentic Taiwanese milk tea. HEYTEA Item Price Taste Value Comments Brown Sugar Bobo Milk $8.10 4/5 3.8/5 Rich milk taste Chagee not your cup of tea if you must have pearls Item Price Taste Value Comments Tie Guan Yin $5.20 3.8/5 3.8/5 Soothing taste, tastes similar to oolong Osmanthus Oolong Tea $4.90 3.8/5 3.8/5 Soothing taste, tastes similar to Tie Guan Yin Rose Pu Er Milk Tea $5.20 2.5/5 2/5 Does not taste great. Da Hong Pao $4.90 3.8/5 3.8/5 Soothing taste, tastes similar to Tie Guan Yin LiHO Item Price Taste Value Comments Classic Milk Tea with Golden Pearl $4.00 3.5/5 3.6/5 Taste similar to iTea and KOI 🍹 YiFang Item Price Taste Value Comments Double Tea Latte $4.70 4/5 4/5 Rich flavour, authentic Taiwanese milk tea Brown Sugar Pearl Latte $5.70 3.2/5 3.4/5 Too sweet 🍹 Tiger Sugar Item Price Taste Value Comments Brown Sugar Boba Milk $5.30 3/5 2.5/5 Too sweet KOI Item Price Taste Value Comments Jumbo Milk Tea $4.60 3.5/5 3/5 Too expensive given that it tastes the same as iTea and LiHO ", 
+            "tags": [ "food connoisseur",  "food", ],
+    "content": "🍹 iTea Item Price Taste Value Comments Pearl Milk Tea $2.90 3.5/5 4/5 May taste diluted if too much ice melts. CHICHA San Chen 吃茶三千 Item Price Taste Value Comments Pearl Milk Tea $5.60 5/5 3.6/5 Absolutely delicious, authentic Taiwanese milk tea. HEYTEA Item Price Taste Value Comments Brown Sugar Bobo Milk $6.50 4/5 3.8/5 Rich milk taste Chagee not your cup of tea if you must have pearls Item Price Taste Value Comments Tie Guan Yin $5.20 3.8/5 3.8/5 Soothing taste, tastes similar to oolong Osmanthus Oolong Tea $4.90 3.8/5 3.8/5 Soothing taste, tastes similar to Tie Guan Yin Rose Pu Er Milk Tea $5.20 2.5/5 2/5 Does not taste great. Da Hong Pao $4.90 3.8/5 3.8/5 Soothing taste, tastes similar to Tie Guan Yin LiHO Item Price Taste Value Comments Classic Milk Tea with Golden Pearl $4.00 3.5/5 3.6/5 Taste similar to iTea and KOI YiFang Item Price Taste Value Comments Double Tea Latte $4.70 4/5 4/5 Rich flavour, authentic Taiwanese milk tea Brown Sugar Pearl Latte $5.70 3.2/5 3.4/5 Too sweet 🍹 Tiger Sugar Item Price Taste Value Comments Brown Sugar Boba Milk $5.30 3/5 2.5/5 Too sweet KOI Item Price Taste Value Comments Jumbo Milk Tea $4.60 3.5/5 3/5 Too expensive given that it tastes the same as iTea and LiHO ", 
     "url": "http:\/\/localhost:1313\/posts\/cafe\/milktea\/",
     "image": "\/img\/chicha.jpg",
     "description": ""
@@ -313,17 +291,6 @@
             "tags": [],
     "content": "", 
     "url": "http:\/\/localhost:1313\/tags\/notes\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/categories\/physics\/": {
-        
-        "title": "Physics",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/categories\/physics\/",
     "image": "",
     "description": ""
         },
@@ -358,17 +325,6 @@
     "content": " 🚨 Important pointers If an object is neutrally charged, + = - (+) charges never move, rather they are deficient in e- Insulators are used to prevent items from being earthed as e- can flow in and out from earth/ e cant transfer Electrons transfer until they reach an equilibrium If an object is negatively charged, it has electrons all through out ", 
     "url": "http:\/\/localhost:1313\/posts\/physics\/statice\/",
     "image": "\/img\/statice.JPG",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/categories\/chemistry\/": {
-        
-        "title": "Chemistry",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/categories\/chemistry\/",
-    "image": "",
     "description": ""
         },
     
@@ -435,17 +391,6 @@
     "content": " 🚨 Important pointers Acids and Bases\nAlways check reactivity series to see if metal reacts Salts Concentration of Weak acids cannot be determined by pH Weak acids have conc \u0026lt; actual conc Use Conc for pH and not amt (mol) Only soluble oxides give OH- ions when dissolved in water… + NH3 gives OH- when dissolved in water Reactions\nGood yield -\u0026gt; more reactive All acids, regardless of strength, will fully react with base/alkali given they have the same concentration ", 
     "url": "http:\/\/localhost:1313\/posts\/chemistry\/abs\/",
     "image": "\/img\/acids.JPG",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/categories\/history\/": {
-        
-        "title": "History",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/categories\/history\/",
-    "image": "",
     "description": ""
         },
     
@@ -549,6 +494,50 @@
         },
     
     
+    "http:\/\/localhost:1313\/posts\/math\/int\/": {
+        
+        "title": "Further Integration Techniques",
+            "tags": [ "math",  "notes", ],
+    "content": "Integration by parts, separation, and using an integrating factor\n⚡️ ", 
+    "url": "http:\/\/localhost:1313\/posts\/math\/int\/",
+    "image": "\/img\/dccircuits.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/math\/": {
+        
+        "title": "Math",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/math\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/physics\/dc-circuits\/": {
+        
+        "title": "DC Circuits",
+            "tags": [ "physics",  "notes",  "S4", ],
+    "content": "⚡️ ", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/dc-circuits\/",
+    "image": "\/img\/dccircuits.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/math\/diff\/": {
+        
+        "title": "Differentiation",
+            "tags": [ "math",  "notes", ],
+    "content": "⚡️ ", 
+    "url": "http:\/\/localhost:1313\/posts\/math\/diff\/",
+    "image": "\/img\/dccircuits.JPG",
+    "description": ""
+        },
+    
+    
     "http:\/\/localhost:1313\/posts\/physics\/kinematics\/": {
         
         "title": "Kinematics",
@@ -556,6 +545,17 @@
     "content": "", 
     "url": "http:\/\/localhost:1313\/posts\/physics\/kinematics\/",
     "image": "\/img\/kine.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/physics\/workenergypower\/": {
+        
+        "title": "Work, energy, power",
+            "tags": [ "physics",  "notes",  "S3", ],
+    "content": " Tips / common mistakes Average force = Wd/d, Wd is a scalar quantity Power is rate of work When an object is going uphill, resistive forces hve a horizontal (frcition) and vertical component (gravity) Work done has to be in the same direction EPE is greatest when extension is the longest, while KE is the lowest EPE can be derived from the area under the force-extention graph GPE is relative to a point Useful energy does not include work done against friction ", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/workenergypower\/",
+    "image": "",
     "description": ""
         },
     
@@ -626,6 +626,28 @@
         },
     
     
+    "http:\/\/localhost:1313\/posts\/physics\/waves\/": {
+        
+        "title": "Waves",
+            "tags": [ "physics",  "notes",  "S4", ],
+    "content": " Common errors Displacement-distance graph Displacement-time graph movement of the wave itself Showing displacement of a point on a wave Frequency Period # of cycles / s 1 cycle / unit of time At equilibrium point, particle is moving the fastest At crest and trough, particle is at rest (change in direction) Between 2 points in a phase = wavelength ", 
+    "url": "http:\/\/localhost:1313\/posts\/physics\/waves\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/about\/": {
+        
+        "title": "About",
+            "tags": [],
+    "content": "hi\n", 
+    "url": "http:\/\/localhost:1313\/about\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
     "http:\/\/localhost:1313\/posts\/cafe\/workcafe\/": {
         
         "title": "",
@@ -675,5 +697,7 @@
 </script>
 
 </footer>
-</body>
+
+    <script src="/js/filter.js"></script>
+  </body>
 </html>
