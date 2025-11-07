@@ -72,24 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
-      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Polymers</title>
       <link>http://localhost:1313/posts/chemistry/polymers/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Waves</title>
-      <link>http://localhost:1313/posts/physics/waves/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/waves/</guid>
       <description></description>
     </item>
   </channel>
