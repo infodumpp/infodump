@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S3 on infodump</title>
-    <link>https://infodump.netlify.app/tags/s3/</link>
+    <link>http://localhost:1313/tags/s3/</link>
     <description>Recent content in S3 on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Oct 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="https://infodump.netlify.app/tags/s3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/s3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intermolecular bonding</title>
-      <link>https://infodump.netlify.app/posts/chemistry/intbonding/</link>
+      <link>http://localhost:1313/posts/chemistry/intbonding/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/intbonding/</guid>
+      <guid>http://localhost:1313/posts/chemistry/intbonding/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoichiometry</title>
-      <link>https://infodump.netlify.app/posts/chemistry/stoi/</link>
+      <link>http://localhost:1313/posts/chemistry/stoi/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/stoi/</guid>
+      <guid>http://localhost:1313/posts/chemistry/stoi/</guid>
       <description></description>
     </item>
     <item>
       <title>Acids, Bases &amp; Salts</title>
-      <link>https://infodump.netlify.app/posts/chemistry/abs/</link>
+      <link>http://localhost:1313/posts/chemistry/abs/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/abs/</guid>
+      <guid>http://localhost:1313/posts/chemistry/abs/</guid>
       <description></description>
     </item>
     <item>
       <title>Organic Chemistry</title>
-      <link>https://infodump.netlify.app/posts/chemistry/org/</link>
+      <link>http://localhost:1313/posts/chemistry/org/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/org/</guid>
+      <guid>http://localhost:1313/posts/chemistry/org/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinematics</title>
-      <link>https://infodump.netlify.app/posts/physics/kinematics/</link>
+      <link>http://localhost:1313/posts/physics/kinematics/</link>
       <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/physics/kinematics/</guid>
+      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work, energy, power</title>
+      <link>http://localhost:1313/posts/physics/workenergypower/</link>
+      <pubDate>Fri, 21 Mar 2025 12:38:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/workenergypower/</guid>
       <description></description>
     </item>
     <item>
       <title>Atomic Structure</title>
-      <link>https://infodump.netlify.app/posts/chemistry/atomicstrcture/</link>
+      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/atomicstrcture/</guid>
+      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemical Bonding</title>
-      <link>https://infodump.netlify.app/posts/chemistry/chemicalbonding/</link>
+      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/chemicalbonding/</guid>
+      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
       <description></description>
     </item>
     <item>
       <title>Measurement</title>
-      <link>https://infodump.netlify.app/posts/physics/measurement/</link>
+      <link>http://localhost:1313/posts/physics/measurement/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/physics/measurement/</guid>
+      <guid>http://localhost:1313/posts/physics/measurement/</guid>
       <description></description>
     </item>
   </channel>

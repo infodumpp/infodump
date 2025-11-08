@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food Connoisseur on infodump</title>
-    <link>https://infodump.netlify.app/tags/food-connoisseur/</link>
+    <link>http://localhost:1313/tags/food-connoisseur/</link>
     <description>Recent content in Food Connoisseur on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Oct 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="https://infodump.netlify.app/tags/food-connoisseur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/food-connoisseur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ultimate Matcha Guide</title>
-      <link>https://infodump.netlify.app/posts/cafe/mat/</link>
+      <link>http://localhost:1313/posts/cafe/mat/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/cafe/mat/</guid>
+      <guid>http://localhost:1313/posts/cafe/mat/</guid>
       <description></description>
     </item>
     <item>
       <title>Ultimate Milk Tea Guide</title>
-      <link>https://infodump.netlify.app/posts/cafe/milktea/</link>
+      <link>http://localhost:1313/posts/cafe/milktea/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/cafe/milktea/</guid>
+      <guid>http://localhost:1313/posts/cafe/milktea/</guid>
       <description></description>
     </item>
   </channel>

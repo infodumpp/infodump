@@ -2,80 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S4 on infodump</title>
-    <link>https://infodump.netlify.app/tags/s4/</link>
+    <link>http://localhost:1313/tags/s4/</link>
     <description>Recent content in S4 on infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Oct 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="https://infodump.netlify.app/tags/s4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/s4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Static Electricity</title>
-      <link>https://infodump.netlify.app/posts/physics/statice/</link>
+      <link>http://localhost:1313/posts/physics/statice/</link>
       <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/physics/statice/</guid>
+      <guid>http://localhost:1313/posts/physics/statice/</guid>
       <description></description>
     </item>
     <item>
       <title>Pressure</title>
-      <link>https://infodump.netlify.app/posts/physics/pressure/</link>
+      <link>http://localhost:1313/posts/physics/pressure/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/physics/pressure/</guid>
+      <guid>http://localhost:1313/posts/physics/pressure/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinetics</title>
-      <link>https://infodump.netlify.app/posts/chemistry/kin/</link>
+      <link>http://localhost:1313/posts/chemistry/kin/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/kin/</guid>
+      <guid>http://localhost:1313/posts/chemistry/kin/</guid>
       <description></description>
     </item>
     <item>
       <title>The Cold War</title>
-      <link>https://infodump.netlify.app/posts/history/coldwar/</link>
+      <link>http://localhost:1313/posts/history/coldwar/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/history/coldwar/</guid>
+      <guid>http://localhost:1313/posts/history/coldwar/</guid>
       <description></description>
     </item>
     <item>
       <title>Dynamic Equilibrium</title>
-      <link>https://infodump.netlify.app/posts/chemistry/dyne/</link>
+      <link>http://localhost:1313/posts/chemistry/dyne/</link>
       <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/dyne/</guid>
+      <guid>http://localhost:1313/posts/chemistry/dyne/</guid>
       <description></description>
     </item>
     <item>
       <title>Thermodynamics</title>
-      <link>https://infodump.netlify.app/posts/chemistry/thermo/</link>
+      <link>http://localhost:1313/posts/chemistry/thermo/</link>
       <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/thermo/</guid>
+      <guid>http://localhost:1313/posts/chemistry/thermo/</guid>
       <description></description>
     </item>
     <item>
       <title>Electrochemistry</title>
-      <link>https://infodump.netlify.app/posts/chemistry/electrochem/</link>
+      <link>http://localhost:1313/posts/chemistry/electrochem/</link>
       <pubDate>Wed, 01 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/electrochem/</guid>
+      <guid>http://localhost:1313/posts/chemistry/electrochem/</guid>
       <description></description>
     </item>
     <item>
       <title>Redox</title>
-      <link>https://infodump.netlify.app/posts/chemistry/redox/</link>
+      <link>http://localhost:1313/posts/chemistry/redox/</link>
       <pubDate>Wed, 01 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/redox/</guid>
+      <guid>http://localhost:1313/posts/chemistry/redox/</guid>
       <description></description>
     </item>
     <item>
       <title>Physical Periodicity</title>
-      <link>https://infodump.netlify.app/posts/chemistry/pperiodicity/</link>
+      <link>http://localhost:1313/posts/chemistry/pperiodicity/</link>
       <pubDate>Mon, 01 Sep 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/pperiodicity/</guid>
+      <guid>http://localhost:1313/posts/chemistry/pperiodicity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DC Circuits</title>
+      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
+      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
       <description></description>
     </item>
     <item>
       <title>Polymers</title>
-      <link>https://infodump.netlify.app/posts/chemistry/polymers/</link>
+      <link>http://localhost:1313/posts/chemistry/polymers/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/chemistry/polymers/</guid>
+      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waves</title>
+      <link>http://localhost:1313/posts/physics/waves/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/physics/waves/</guid>
       <description></description>
     </item>
   </channel>

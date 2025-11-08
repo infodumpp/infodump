@@ -1,26 +1,24 @@
-<!-- layouts/partials/filter-grid.html -->
 <div id="category-buttons" style="text-align:center; margin-bottom: 1.5rem;">
-    <button class="fbtn active" data-cat="all">All</button>
-    <button class="fbtn" data-cat="chemistry">Chemistry</button>
-    <button class="fbtn" data-cat="connoisseur">Connoisseur</button>
-    <button class="fbtn" data-cat="history">History</button>
-    <button class="fbtn" data-cat="physics">Physics</button>
-  </div>
-  
-  <div class="post-grid" id="post-grid">
-    {{/* Loop through site pages */}}
-    {{ range .Site.RegularPages.ByDate.Reverse }}
-      {{ $cats := .Params.categories }}
-      {{ if not (in .Params.tags "exclude-from-grid") }}
+  <button class="fbtn active" data-cat="all">All</button>
+  <button class="fbtn" data-cat="chemistry">Chemistry</button>
+  <button class="fbtn" data-cat="connoisseur">Connoisseur</button>
+  <button class="fbtn" data-cat="history">History</button>
+  <button class="fbtn" data-cat="physics">Physics</button>
+</div>
+
+<div class="post-grid" id="post-grid">
+  {{ range .Site.RegularPages.ByDate.Reverse }}
+    {{ $cats := .Params.categories }}
+    {{ if not (in .Params.tags "exclude-from-grid") }}
       <a class="post-card {{ range $i, $c := $cats }}{{ if $i }} {{ end }}{{ $c }}{{ end }}" href="{{ .Permalink }}">
         <div class="post-card-inner">
           <div class="post-image" style="background-image: url('{{ with .Params.image }}{{ . }}{{ else }}/img/default-card.jpg{{ end }}');"></div>
           <h3 class="post-title">{{ .Title }}</h3>
         </div>
       </a>
-      {{ end }}
     {{ end }}
-  </div>
+  {{ end }}
+</div>
   
   <style>
   #category-buttons {
