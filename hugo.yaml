@@ -3,7 +3,10 @@ languageCode: en-us
 title: infodump
 theme:
   - hugo-theme-quint
-  - hugo-embed-pdf-shortcode
+[module]
+imports:
+  - path: hugo-embed-pdf-shortcode
+  
 module:
   noVendor: true
 enableInlineShortcodes: true
