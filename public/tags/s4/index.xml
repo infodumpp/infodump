@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S4 on infodump</title>
+    <title>S4 on Infodump</title>
     <link>http://localhost:1313/tags/s4/</link>
-    <description>Recent content in S4 on infodump</description>
+    <description>Recent content in S4 on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Oct 2025 23:05:54 +0800</lastBuildDate>
@@ -72,24 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/dc-circuits/</link>
-      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/dc-circuits/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Polymers</title>
       <link>http://localhost:1313/posts/chemistry/polymers/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Waves</title>
-      <link>http://localhost:1313/posts/physics/waves/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/waves/</guid>
       <description></description>
     </item>
   </channel>

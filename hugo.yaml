@@ -1,15 +1,20 @@
 baseURL: "https://infodump.netlify.app/"
 languageCode: en-us
-title: infodump
-theme:
+title: Infodump
+theme: 
   - hugo-theme-quint
-[module]
-imports:
-  - path: hugo-embed-pdf-shortcode
-  
+  - hugo-embed-pdf-shortcode
+
 module:
   noVendor: true
-enableInlineShortcodes: true
+  enableInlineShortcodes: true
+  imports:
+    - path: hugo-embed-pdf-shortcode
+
+
+module:
+  noVendor: true
+  enableInlineShortcodes: true
 
 disqusShortname: infodump
 
