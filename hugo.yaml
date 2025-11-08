@@ -4,6 +4,8 @@ title: infodump
 theme:
   - hugo-theme-quint
   - hugo-embed-pdf-shortcode
+module:
+  noVendor: true
 enableInlineShortcodes: true
 
 disqusShortname: infodump
