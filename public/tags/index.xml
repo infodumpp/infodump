@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on infodump</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on infodump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Oct 2025 23:05:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/tags/food/</link>
+      <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food Connoisseur</title>
+      <link>http://localhost:1313/tags/food-connoisseur/</link>
+      <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/food-connoisseur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/tags/notes/</link>
+      <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>http://localhost:1313/tags/physics/</link>
+      <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S4</title>
+      <link>http://localhost:1313/tags/s4/</link>
+      <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/s4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chemistry</title>
+      <link>http://localhost:1313/tags/chemistry/</link>
+      <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/chemistry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S3</title>
+      <link>http://localhost:1313/tags/s3/</link>
+      <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/s3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
+      <pubDate>Sun, 03 Aug 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>S2</title>
+      <link>http://localhost:1313/tags/s2/</link>
+      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/tags/s2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
