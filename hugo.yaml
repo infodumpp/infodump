@@ -1,4 +1,4 @@
-baseURL: "https://your-site.netlify.app/"
+baseURL: "https://infodump.netlify.app/"
 languageCode: "en-us"
 title: "Infodump"
 theme: hugo-theme-quint
