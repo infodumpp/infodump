@@ -44,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>Causes of WW2</title>
+      <link>http://localhost:1313/posts/history/ww2/</link>
+      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/history/ww2/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Kinetics</title>
       <link>http://localhost:1313/posts/chemistry/kin/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
@@ -62,6 +69,13 @@
       <link>http://localhost:1313/posts/history/coldwar/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/history/coldwar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Rise of the Nazi Party</title>
+      <link>http://localhost:1313/posts/history/nazi/</link>
+      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/history/nazi/</guid>
       <description></description>
     </item>
     <item>
@@ -97,6 +111,20 @@
       <link>http://localhost:1313/posts/chemistry/pperiodicity/</link>
       <pubDate>Mon, 01 Sep 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/chemistry/pperiodicity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Further Integration Techniques</title>
+      <link>http://localhost:1313/posts/math/int/</link>
+      <pubDate>Sun, 03 Aug 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/int/</guid>
+      <description>&lt;p&gt;Integration by parts, separation, and using an integrating factor&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Differentiation</title>
+      <link>http://localhost:1313/posts/math/diff/</link>
+      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/diff/</guid>
       <description></description>
     </item>
     <item>

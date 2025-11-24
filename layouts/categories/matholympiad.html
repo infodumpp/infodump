@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<ul style="list-style:none; padding-left:0; margin-top:20px;">
+  {{ range .Pages }}
+    <li style="margin-bottom: 25px;">
+
+      <!-- Title -->
+      <a href="{{ .Permalink }}" style="text-decoration:none;">
+        <h2 style="margin-bottom:5px;">{{ .Title }}</h2>
+      </a>
+
+      <!-- Summary -->
+      <p>{{ .Summary }}</p>
+
+    </li>
+  {{ end }}
+</ul>
+
+{{ end }}

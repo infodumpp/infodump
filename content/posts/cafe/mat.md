@@ -1,5 +1,5 @@
 ---
-date: '2025-10-20T23:05:54+08:00'
+date: '2025-07-20T23:05:54+08:00'
 draft: false
 title: 'Ultimate Matcha Guide'
 image: '/img/matcha.JPG'
@@ -9,7 +9,7 @@ categories: ['food connoisseur']
 ---
 
 <!--more-->
-# 🍵 Matcha Drinks Review
+# 🍵 Matcha Drink Review
 
 ---
 
@@ -154,3 +154,28 @@ categories: ['food connoisseur']
     </table>
   </div>
 </div>
+
+---
+
+## Matchaya
+<div style='display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 2rem;'>
+  <img src='/img/matchaya.jpg' style='width: 250px; border-radius: 12px; flex-shrink: 0;'>
+  <div style='flex: 1; min-width: 300px;'>
+    <table style='border-collapse: collapse; width: 100%;'>
+      <thead>
+        <tr style='background-color: #333; color: white;'>
+          <th style='padding: 8px;'>Item</th>
+          <th style='padding: 8px;'>Price</th>
+          <th style='padding: 8px;'>Taste</th>
+          <th style='padding: 8px;'>Value</th>
+          <th style='padding: 8px;'>Comments</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='padding: 8px;'>Strawberry Matcha latte</td><td>$6.00</td><td>3.2/5</td><td>3.8/5</td><td>Rich matcha flavour is present, however, consistency is slightly watery  </td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+---

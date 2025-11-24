@@ -14,10 +14,10 @@ taxonomies:
   tag: tags
 
 params:
+  subtitle: "Hi!"
+  description: "These notes are based on the IGCSE/A-level syllabus..."
   customCSS: ["css/custom.css"]
   homeInfoParams:
-    Title: Hi!
-    caption: "These notes are based on the IGCSE/A-level syllabus..."
   contact: 
     write me an email at [infoodump@gmail.com](mailto:infoodump@gmail.com)
   disqusShortname: infodump-1

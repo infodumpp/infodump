@@ -1,6 +1,6 @@
 ---
 date: '2025-07-03T23:05:54+08:00'
-draft: true
+draft: false
 title: 'Differentiation'
 image: '/img/dccircuits.JPG'
 tags: ['math', 'notes']
