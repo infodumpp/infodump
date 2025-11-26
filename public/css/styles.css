@@ -620,81 +620,77 @@ code {
 }
 
 /* ==============================
-   Tags Page Styles
+   Tags Gallery Styles
    ============================== */
 
-/* Container for all tags */
-.tags-page-container {
+/* Container for all tags gallery */
+.tags-gallery-container {
     max-width: 900px;        /* limits content width */
     margin: 50px auto;       /* centers container with top/bottom spacing */
     padding: 0 20px;         /* horizontal padding */
+    text-align: center;
 }
 
 /* Page header */
-.tags-page-container h1 {
+.tags-gallery-container h1 {
     font-size: 2rem;
-    text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     color: var(--primary-text);
 }
 
-/* List of tags */
-.tags-list {
-    list-style: none;
-    padding-left: 0;
-    display: flex;
-    flex-wrap: wrap;         /* allows tags to wrap to next line */
-    gap: 15px;               /* space between tags */
-    justify-content: center; /* center tags horizontally */
+/* Grid layout for tag cards */
+.tags-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 15px;
 }
 
-/* Individual tag buttons */
-.tag-item a {
-    display: inline-block;
-    padding: 8px 16px;
+/* Individual tag cards */
+.tag-card {
+    display: block;
     background-color: var(--link-color);
-    border-radius: 8px;
-    text-decoration: none;
     color: var(--primary-bg);
-    font-size: 0.95rem;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 10px;
+    padding: 15px;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-/* Hover effect for tags */
-.tag-item a:hover {
-    background-color: var(--primary-text);
-    color: var(--primary-bg);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+.tag-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
 }
 
-/* Dark mode fixes for tags */
+.tag-card h2 {
+    margin: 0 0 8px;
+    font-size: 1rem;
+}
+
+.tag-card p {
+    margin: 0;
+    font-size: 0.85rem;
+    opacity: 0.8;
+}
+
+/* Dark mode for gallery */
 @media (prefers-color-scheme: dark) {
-    .tags-page-container h1 {
+    .tags-gallery-container h1 {
         color: var(--primary-bg);
     }
-
-    .tag-item a {
+    .tag-card {
         background-color: var(--link-color);
         color: var(--primary-bg);
     }
-
-    .tag-item a:hover {
-        background-color: var(--primary-bg);
-        color: var(--primary-text);
+    .tag-card:hover {
+        background-color: var(--primary-text);
+        color: var(--primary-bg);
     }
 }
 
-/* Responsive for mobile */
+/* Mobile responsive */
 @media (max-width: 600px) {
-    .tags-list {
-        flex-direction: column;
-        align-items: center;
-        gap: 10px;
-    }
-
-    .tag-item a {
-        width: 80%;
-        text-align: center;
+    .tags-gallery {
+        grid-template-columns: 1fr;
     }
 }

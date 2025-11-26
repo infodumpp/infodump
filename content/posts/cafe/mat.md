@@ -149,7 +149,7 @@ categories: ['food connoisseur']
         <tr><td style='padding: 8px;'>Cloud matcha latte</td><td>$6.90</td><td>3.9/5</td><td>4.5/5</td><td>Amazing in its own right, but would not be picked over the supreme matcha latte or triple matcha latte</td></tr>
         <tr><td style='padding: 8px;'>Supreme matcha latte</td><td>$6.90</td><td>4.5/5</td><td>4.5/5</td><td>includes matcha jelly at the bottom </td></tr>
         <tr><td style='padding: 8px;'>Triple matcha latte</td><td>$6.90</td><td>3.9/5</td><td>4.5/5</td><td>Similar taste to the supreme matcha latte, but with additional foam on top </td></tr>
-          <tr><td style='padding: 8px;'>HEYTEA x Wicked matcha Pomelo</td><td>$6.90</td><td>4/5</td><td>4.5/5</td><td>Surprisingly delicious combination, both refreshing and rich </td></tr>
+          <tr><td style='padding: 8px;'>HEYTEA x Wicked matcha Pomelo</td><td>$6.90</td><td>4/5</td><td>4.8/5</td><td>Surprisingly delicious combination, both refreshing and rich </td></tr>
       </tbody>
     </table>
   </div>

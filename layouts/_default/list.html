@@ -1,12 +1,4 @@
-{{ define "main" }}
-  <section class="hero">
-    <h1 class="p-name">{{ .Title }}</h1>
-    <p class="subtitle"></p>
-    <p><p></p>
-    {{ .Content }}
-  </section>
-
-  <div class="container">
-    {{ partial "filter-grid.html" . }}
-  </div>
-{{ end }}
+<section class="hero">
+  <p class="subtitle">{{ .Site.Params.subtitle }}</p>
+  <p>{{ .Site.Params.description }}</p>
+</section>
