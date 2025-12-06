@@ -12,7 +12,18 @@ categories: ['chemistry']
 ---
 
 <!--more-->
-{{< embed-pdf src="/pdf/stoi.pdf" width="800px" height="620px">}}
+<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
+
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/stoi.pdf" width="800px" height="820px">}}
+</div>
+
+<p style="text-align:center;">
+  <a class="download-btn" href="/pdf/stoi.pdf" download>📄 Download PDF</a>
+</p>
+
 
 # 🚨 Important pointers
 {{< box >}}

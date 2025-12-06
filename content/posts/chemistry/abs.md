@@ -12,7 +12,18 @@ categories: ['chemistry']
 ---
 
 <!--more-->
-{{< embed-pdf src="/pdf/acids.pdf" width="750px" height="620px">}}
+<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
+
+
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/acids.pdf" width="750px" height="620px">}}
+</div>
+
+<p style="text-align:center;">
+  <a class="download-btn" href="/pdf/acids.pdf" download>📄 Download PDF</a>
+</p>
 
 # 🚨 Important pointers
 {{< box >}}

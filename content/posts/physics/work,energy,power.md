@@ -7,6 +7,10 @@ categories: ['physics']
 ---
 
 <!--more-->
+<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
+
 > ### Tips / common mistakes
 > 1. Average force = Wd/d, 
 > 2. Wd is a scalar quantity

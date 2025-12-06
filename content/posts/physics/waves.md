@@ -10,6 +10,9 @@ categories: ['physics']
 ---
 
 <!--more-->
+<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
 
 > ### Common errors
 > 1. | Displacement-distance graph    | Displacement-time graph |

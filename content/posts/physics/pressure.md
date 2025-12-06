@@ -12,7 +12,17 @@ categories: ['physics']
 ---
 
 <!--more-->
-{{< embed-pdf src="/pdf/pressure.pdf" width="800px" height="620px">}}
+<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
+
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/pressure.pdf" width="800px" height="620px">}}
+</div>
+
+<p style="text-align:left;">
+  <a class="download-btn" href="/pdf/pressure.pdf" download>📄 Download PDF</a>
+</p>
 
 # 🚨 Important pointers
 {{< box >}}

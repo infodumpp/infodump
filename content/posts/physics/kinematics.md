@@ -8,5 +8,14 @@ categories: ['physics']
 ---
 
 <!--more-->
+<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
 
-{{< embed-pdf src="/pdf/kinematics.pdf" width="750px" height="620px">}}
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/kinematics.pdf" width="750px" height="620px">}}
+</div>
+
+<p style="text-align:left;">
+  <a class="download-btn" href="/pdf/kinematics.pdf" download>📄 Download PDF</a>
+</p>
