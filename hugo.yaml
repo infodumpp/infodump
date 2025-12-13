@@ -3,6 +3,12 @@ languageCode: "en-us"
 title: "Infodump"
 theme: hugo-theme-quint
 
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+
 module:
   noVendor: true
   enableInlineShortcodes: true
