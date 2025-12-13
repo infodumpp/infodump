@@ -1,21 +1,30 @@
 <head>
     <meta charset="utf-8"/>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+    <!-- SEO / Indexing -->
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Infodump - Free notes, free IGCSE notes, free GCSE notes, O level notes, A level notes, Singapore notes, food reviews, milk tea review, matcha review.">
+    <meta name="keywords" content="notes, IGCSE, O-level, A-level, food review, Infodump">
   
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico" style="width: 90px; height: auto;">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
     <link rel="shortcut icon" href="/img/favicon.ico">
   
-    <!-- Google site verification -->
-    <meta name="google-site-verification" content="HiWjnAx6ym6iIh0aVMpou6EIqxhf36NwpqhnAb_TXsI" />
+    <!-- Google Site Verification -->
+    <meta name="google-site-verification" content="HiWjnAx6ym6iIh0aVMpou6EIqxhf36NwpqhnAb_TXsI">
   
+    <!-- Page title -->
     <title>{{ if ne .Title .Site.Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  
+    <!-- CSS -->
     <link href="/css/styles.css" rel="stylesheet"/>
     {{ range .Site.Params.css -}}
-        <link href="/{{ . }}" rel="stylesheet"/>
-        <link rel="stylesheet" href="/css/custom.css">
+      <link href="/{{ . }}" rel="stylesheet"/>
     {{- end }}
+    <link rel="stylesheet" href="/css/custom.css">
   
+    <!-- Extra Head -->
     {{ partial "extra_head.html" . }}
   
     <!-- Google AdSense -->
