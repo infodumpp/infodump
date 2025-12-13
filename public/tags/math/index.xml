@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Infodump</title>
-    <link>https://infodump.netlify.app/tags/math/</link>
+    <link>http://localhost:1313/tags/math/</link>
     <description>Recent content in Math on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Aug 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="https://infodump.netlify.app/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Further Integration Techniques</title>
-      <link>https://infodump.netlify.app/posts/math/int/</link>
+      <link>http://localhost:1313/posts/math/int/</link>
       <pubDate>Sun, 03 Aug 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/math/int/</guid>
+      <guid>http://localhost:1313/posts/math/int/</guid>
       <description>&lt;p&gt;Integration by parts, separation, and using an integrating factor&lt;/p&gt;</description>
     </item>
     <item>
       <title>Differentiation</title>
-      <link>https://infodump.netlify.app/posts/math/diff/</link>
+      <link>http://localhost:1313/posts/math/diff/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>https://infodump.netlify.app/posts/math/diff/</guid>
+      <guid>http://localhost:1313/posts/math/diff/</guid>
       <description></description>
     </item>
   </channel>
