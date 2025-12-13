@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food on Infodump</title>
-    <link>http://localhost:1313/tags/food/</link>
+    <link>https://infodump.netlify.app/tags/food/</link>
     <description>Recent content in Food on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jul 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infodump.netlify.app/tags/food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ultimate Matcha Guide</title>
-      <link>http://localhost:1313/posts/cafe/mat/</link>
+      <link>https://infodump.netlify.app/posts/cafe/mat/</link>
       <pubDate>Sun, 20 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/cafe/mat/</guid>
+      <guid>https://infodump.netlify.app/posts/cafe/mat/</guid>
       <description></description>
     </item>
     <item>
       <title>Ultimate Milk Tea Guide</title>
-      <link>http://localhost:1313/posts/cafe/milktea/</link>
+      <link>https://infodump.netlify.app/posts/cafe/milktea/</link>
       <pubDate>Sun, 20 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/cafe/milktea/</guid>
+      <guid>https://infodump.netlify.app/posts/cafe/milktea/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,45 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physics on Infodump</title>
-    <link>http://localhost:1313/tags/physics/</link>
+    <link>https://infodump.netlify.app/tags/physics/</link>
     <description>Recent content in Physics on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Oct 2025 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://infodump.netlify.app/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Static Electricity</title>
-      <link>http://localhost:1313/posts/physics/statice/</link>
+      <link>https://infodump.netlify.app/posts/physics/statice/</link>
       <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/statice/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/statice/</guid>
       <description></description>
     </item>
     <item>
       <title>Pressure</title>
-      <link>http://localhost:1313/posts/physics/pressure/</link>
+      <link>https://infodump.netlify.app/posts/physics/pressure/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/pressure/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/pressure/</guid>
       <description></description>
     </item>
     <item>
       <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/-dccircuits/</link>
+      <link>https://infodump.netlify.app/posts/physics/-dccircuits/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/-dccircuits/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/-dccircuits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electromagnetism</title>
+      <link>https://infodump.netlify.app/posts/physics/em/</link>
+      <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
+      <guid>https://infodump.netlify.app/posts/physics/em/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waves</title>
+      <link>https://infodump.netlify.app/posts/physics/waves/</link>
+      <pubDate>Wed, 09 Apr 2025 23:05:54 +0800</pubDate>
+      <guid>https://infodump.netlify.app/posts/physics/waves/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinematics</title>
-      <link>http://localhost:1313/posts/physics/kinematics/</link>
+      <link>https://infodump.netlify.app/posts/physics/kinematics/</link>
       <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/kinematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Measurement</title>
-      <link>http://localhost:1313/posts/physics/measurement/</link>
+      <link>https://infodump.netlify.app/posts/physics/measurement/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/measurement/</guid>
+      <guid>https://infodump.netlify.app/posts/physics/measurement/</guid>
       <description></description>
     </item>
   </channel>

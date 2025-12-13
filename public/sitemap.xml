@@ -2,121 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://infodump.netlify.app/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/notes/</loc>
+    <loc>https://infodump.netlify.app/tags/notes/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/physics/</loc>
+    <loc>https://infodump.netlify.app/tags/physics/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://infodump.netlify.app/posts/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/s4/</loc>
+    <loc>https://infodump.netlify.app/tags/s4/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/physics/statice/</loc>
+    <loc>https://infodump.netlify.app/posts/physics/statice/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chemistry/</loc>
+    <loc>https://infodump.netlify.app/tags/chemistry/</loc>
     <lastmod>2025-10-07T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/intbonding/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/intbonding/</loc>
     <lastmod>2025-10-07T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/physics/pressure/</loc>
+    <loc>https://infodump.netlify.app/posts/physics/pressure/</loc>
     <lastmod>2025-10-07T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/s3/</loc>
+    <loc>https://infodump.netlify.app/tags/s3/</loc>
     <lastmod>2025-10-07T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/stoi/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/stoi/</loc>
     <lastmod>2025-10-07T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/abs/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/abs/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/history/ww2/</loc>
+    <loc>https://infodump.netlify.app/posts/history/ww2/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/history/</loc>
+    <loc>https://infodump.netlify.app/tags/history/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/kin/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/kin/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/org/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/org/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/history/coldwar/</loc>
+    <loc>https://infodump.netlify.app/posts/history/coldwar/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/history/nazi/</loc>
+    <loc>https://infodump.netlify.app/posts/history/nazi/</loc>
     <lastmod>2025-10-04T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/dyne/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/dyne/</loc>
     <lastmod>2025-10-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/thermo/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/thermo/</loc>
     <lastmod>2025-10-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/electrochem/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/electrochem/</loc>
     <lastmod>2025-10-01T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/redox/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/redox/</loc>
     <lastmod>2025-10-01T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/pperiodicity/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/pperiodicity/</loc>
     <lastmod>2025-09-01T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/math/int/</loc>
+    <loc>https://infodump.netlify.app/posts/math/int/</loc>
     <lastmod>2025-08-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
+    <loc>https://infodump.netlify.app/tags/math/</loc>
     <lastmod>2025-08-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/food/</loc>
+    <loc>https://infodump.netlify.app/tags/food/</loc>
     <lastmod>2025-07-20T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/food-connoisseur/</loc>
+    <loc>https://infodump.netlify.app/tags/food-connoisseur/</loc>
     <lastmod>2025-07-20T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cafe/mat/</loc>
+    <loc>https://infodump.netlify.app/posts/cafe/mat/</loc>
     <lastmod>2025-07-20T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cafe/milktea/</loc>
+    <loc>https://infodump.netlify.app/posts/cafe/milktea/</loc>
     <lastmod>2025-07-20T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/physics/-dccircuits/</loc>
+    <loc>https://infodump.netlify.app/posts/physics/-dccircuits/</loc>
     <lastmod>2025-07-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/math/diff/</loc>
+    <loc>https://infodump.netlify.app/posts/math/diff/</loc>
     <lastmod>2025-07-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/physics/kinematics/</loc>
+    <loc>https://infodump.netlify.app/posts/physics/em/</loc>
+    <lastmod>2025-07-03T23:05:54+08:00</lastmod>
+  </url><url>
+    <loc>https://infodump.netlify.app/posts/physics/waves/</loc>
+    <lastmod>2025-04-09T23:05:54+08:00</lastmod>
+  </url><url>
+    <loc>https://infodump.netlify.app/posts/physics/kinematics/</loc>
     <lastmod>2025-04-03T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/atomicstrcture/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/atomicstrcture/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/chemicalbonding/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/chemicalbonding/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/physics/measurement/</loc>
+    <loc>https://infodump.netlify.app/posts/physics/measurement/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/polymers/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/polymers/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/s2/</loc>
+    <loc>https://infodump.netlify.app/tags/s2/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chemistry/separation/</loc>
+    <loc>https://infodump.netlify.app/posts/chemistry/separation/</loc>
     <lastmod>2025-03-10T23:05:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://infodump.netlify.app/about/</loc>
     <lastmod>2025-01-06T19:08:07+08:00</lastmod>
   </url>
 </urlset>
