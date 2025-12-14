@@ -1,6 +1,6 @@
 /* Root Variables */
 :root {
-    --primary-bg: #ffffff;
+    --primary-bg: #ede7df;
     --primary-text: #353d49;
     --secondary-text: #252627;
     --link-color: #879094;
@@ -46,7 +46,7 @@ body {
     color: var(--secondary-text);
     min-height: 100vh;
     margin: 0 auto;
-    line-height: 1.6;
+    line-height: 1.5;
 }
 
 a,
@@ -579,7 +579,7 @@ h2 > code {
     }
 
     .container {
-        margin: 3rem auto;
+        margin: 1rem auto;
         max-width: 800px;
     }
 

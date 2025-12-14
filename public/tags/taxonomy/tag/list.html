@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="tags-gallery-container">
+  <h1>Posts Tagged: {{ .Title }}</h1>
+  <div class="tags-gallery">
+    {{ range .Pages }}
+      <a href="{{ .Permalink }}" class="tag-card">
+        <h2>{{ .Title }}</h2>
+      </a>
+    {{ else }}
+      <p>No posts found under this tag.</p>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

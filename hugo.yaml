@@ -19,7 +19,7 @@ taxonomies:
   tag: tags
 
 params:
-  subtitle: "Hi!"
+  subtitle: "Hi there!"
   description: "These notes are based on the IGCSE/A-level syllabus..."
   customCSS: ["css/custom.css"]
   homeInfoParams:

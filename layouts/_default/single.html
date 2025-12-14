@@ -6,6 +6,7 @@
     id="heroSection" onload="adjustTextColor(this)">
         <div>
             <h1 class="p-name" id="textOverlay">{{ .Title }}</h1>
+            <p class="subtitle">{{ with .Params.subtitle }}{{ . }}{{ end }}</p>
         </div>
     </section>
     <main class="post h-entry container row">
