@@ -2,6 +2,8 @@ baseURL: "https://infodump.netlify.app/"
 languageCode: "en-us"
 title: "Infodump"
 theme: hugo-theme-quint
+relativeURLs: false
+canonifyURLs: true
 enableRobotsTXT: true
 
 sitemap:
