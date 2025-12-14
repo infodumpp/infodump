@@ -13,7 +13,7 @@
         <div class="post">
             <div class="post-data row">
                 <time class="dt-published" datetime="{{ .Date }}">
-                    <a class="u-url" href="{{ .Permalink }}">{{ .Date | time.Format ":date_medium" }}</a>
+                    <a class="u-url" href="{{ .RelPermalink }}">{{ .Date | time.Format ":date_medium" }}</a>
                 </time>
                 <span rel="author" class="p-author h-card">
                     <img class="u-photo hidden" src="{{ with $.Site.Author.image }}{{ . }}{{ else }}{{ end }}" />
