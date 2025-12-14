@@ -9,7 +9,7 @@ categories: ['food connoisseur']
 ---
 <!--more-->
 # 🍵 Honest review of the Matcha Lattes in Singapore 
-## If you couldn't tell, I am also an avid milk tea oversumer. Personally, I prefer Taiwanese milk tea brands as the milk tea is both fragant despite the milk, which blend together wonderfully. Please note that all prices displayed below are in SGD! 
+### If you couldn't tell, I am also an avid milk tea oversumer. Personally, I prefer Taiwanese milk tea brands as the milk tea is both fragant despite the milk, which blend together wonderfully. Please note that all prices displayed below are in SGD! 
 ---
 
 ## 🍹 iTea

@@ -10,7 +10,7 @@ categories: ['food connoisseur']
 
 <!--more-->
 # 🍵 Honest review of the Matcha Lattes in Singapore 
-## If you couldn't tell, I am an avid matcha consumer. To me, an ideal matcha is rich in flavor yet not too bitter or watery. Please note that all prices displayed below are in SGD! 
+### If you couldn't tell, I am an avid matcha consumer. To me, an ideal matcha is rich in flavor yet not too bitter or watery. Please note that all prices displayed below are in SGD! 
 ---
 
 ## Starbucks
