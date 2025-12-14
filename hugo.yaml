@@ -51,5 +51,3 @@ menu:
     name: About
     url: /about/
     weight: 20
-
-disableKinds: ["taxonomy", "taxonomyTerm"]
