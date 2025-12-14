@@ -10,7 +10,7 @@
   {{ range .Site.RegularPages.ByDate.Reverse }}
     {{ $cats := .Params.categories }}
     {{ if not (in .Params.tags "exclude-from-grid") }}
-      <a class="post-card {{ range $i, $c := $cats }}{{ if $i }} {{ end }}{{ $c }}{{ end }}" href="{{ .Permalink }}">
+      <a class="post-card {{ range $i, $c := $cats }}{{ if $i }} {{ end }}{{ $c }}{{ end }}" href="{{ .RelPermalink }}">
         <div class="post-card-inner">
           <div class="post-image" style="background-image: url('{{ with .Params.image }}{{ . }}{{ else }}/img/default-card.jpg{{ end }}');"></div>
           <h3 class="post-title">{{ .Title }}</h3>
