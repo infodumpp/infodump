@@ -566,6 +566,80 @@
         },
     
     }
+
+    <style>
+:root {
+  /* Customize these colors */
+  --tag-bg-color: #fcedd3;
+  --tag-text-color: #002147;
+  --tag-border-color: #cea273;
+  --tag-hover-bg: #e9eaec;
+  --tag-hover-text: #002147;
+}
+
+/* Container */
+.tags-gallery-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.tags-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+.tags-header p {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+/* Grid layout */
+.tags-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+}
+
+/* Individual tag card */
+.tag-card {
+  display: block;
+  background: var(--tag-bg-color);
+  color: var(--tag-text-color);
+  text-decoration: none;
+  border: 1px solid var(--tag-border-color);
+  border-radius: 12px;
+  padding: 12px;
+  transition: all 0.2s ease;
+}
+
+.tag-card-inner h2 {
+  margin: 0 0 5px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.tag-count {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+/* Hover effect */
+.tag-card:hover {
+  background: var(--tag-hover-bg);
+  color: var(--tag-hover-text);
+  transform: translateY(-2px);
+}
+
+/* Responsive text sizing */
+@media (max-width: 600px) {
+  .tags-gallery {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
+}
+
 </script>
 <script src="http://localhost:1313/js/lunr.min.js"></script>
 <script src="http://localhost:1313/js/search.js"></script>
