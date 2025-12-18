@@ -1,6 +1,6 @@
 ---
 date: '2025-08-03T23:05:54+08:00'
-draft: false
+draft: true
 title: 'Further Integration Techniques'
 image: '/img/dccircuits.JPG'
 tags: ['math', 'notes']

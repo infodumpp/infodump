@@ -13,7 +13,32 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-08T23:05:54+08:00</lastmod>
+    <lastmod>2025-10-20T23:05:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/food/</loc>
+    <lastmod>2025-10-20T23:05:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/food-connoisseur/</loc>
+    <lastmod>2025-10-20T23:05:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-20T23:05:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/cafe/mat/</loc>
+    <lastmod>2025-10-20T23:05:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/cafe/milktea/</loc>
+    <lastmod>2025-10-20T23:05:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,11 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/physics/</loc>
-    <lastmod>2025-10-08T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-08T23:05:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -127,42 +147,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/math/int/</loc>
-    <lastmod>2025-08-03T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
-    <lastmod>2025-08-03T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2025-07-20T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/food-connoisseur/</loc>
-    <lastmod>2025-07-20T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/cafe/mat/</loc>
-    <lastmod>2025-07-20T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/cafe/milktea/</loc>
-    <lastmod>2025-07-20T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/physics/-dccircuits/</loc>
-    <lastmod>2025-07-03T23:05:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/math/diff/</loc>
     <lastmod>2025-07-03T23:05:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
