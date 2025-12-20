@@ -2,7 +2,7 @@
 date: '2025-10-29T23:05:54+08:00'
 draft: false
 title: 'Kinetics'
-image: '/img/kinetics.JPG'
+image: '/img/ch/kinetics.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 

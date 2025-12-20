@@ -2,7 +2,7 @@
 date: '2025-10-25T23:05:54+08:00'
 draft: false
 title: 'Polymers'
-image: '/img/pol.JPG'
+image: '/img/ch/pol.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -16,9 +16,9 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/polymers.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/polymers.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/polymers.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/polymers.pdf" download>📄 Download PDF</a>
 </p>
