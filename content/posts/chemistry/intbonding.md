@@ -1,8 +1,8 @@
 ---
-date: '2025-10-07T23:05:54+08:00'
+date: '2025-10-22T23:05:54+08:00'
 draft: false
 title: 'Intermolecular bonding'
-image: '/img/intbond.JPG'
+image: '/img/ch/intbond.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/intbond.pdf" width="800px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/intbond.pdf" width="800px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/intbond.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/intbond.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers

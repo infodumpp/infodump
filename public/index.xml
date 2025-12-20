@@ -16,6 +16,104 @@
       <description>&lt;p&gt;Hi ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I’m a student currently studying in Singapore-  this is my platform where I share notes/resources that you may find helpful! I decided to name this infodump as I have a ton of interests/ passions (if you couldn’t tell hehe). Feel free to browse around ⊹ ࣪ ˖&lt;/p&gt;&#xA;&lt;p&gt;Feel free to email me for any note requests / feedback as I have not uploaded all my notes yet!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Dynamic Equilibrium</title>
+      <link>http://localhost:1313/posts/chemistry/dynamicequilibrium/</link>
+      <pubDate>Fri, 31 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/dynamicequilibrium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thermodynamics</title>
+      <link>http://localhost:1313/posts/chemistry/thermo/</link>
+      <pubDate>Thu, 30 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/thermo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kinetics</title>
+      <link>http://localhost:1313/posts/chemistry/kin/</link>
+      <pubDate>Wed, 29 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/kin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electrochemistry</title>
+      <link>http://localhost:1313/posts/chemistry/electrochem/</link>
+      <pubDate>Tue, 28 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/electrochem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redox</title>
+      <link>http://localhost:1313/posts/chemistry/redox/</link>
+      <pubDate>Mon, 27 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/redox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physical Periodicity</title>
+      <link>http://localhost:1313/posts/chemistry/pperiodicity/</link>
+      <pubDate>Sun, 26 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/pperiodicity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polymers</title>
+      <link>http://localhost:1313/posts/chemistry/polymers/</link>
+      <pubDate>Sat, 25 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organic Chemistry</title>
+      <link>http://localhost:1313/posts/chemistry/org/</link>
+      <pubDate>Fri, 24 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/org/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acids, Bases &amp; Salts</title>
+      <link>http://localhost:1313/posts/chemistry/abs/</link>
+      <pubDate>Thu, 23 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/abs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intermolecular bonding</title>
+      <link>http://localhost:1313/posts/chemistry/intbonding/</link>
+      <pubDate>Wed, 22 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/intbonding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atomic Structure</title>
+      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
+      <pubDate>Tue, 21 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chemical Bonding</title>
+      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
+      <pubDate>Tue, 21 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Separation Techniques</title>
+      <link>http://localhost:1313/posts/chemistry/separation/</link>
+      <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stoichiometry</title>
+      <link>http://localhost:1313/posts/chemistry/stoi/</link>
+      <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/chemistry/stoi/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ultimate Matcha Guide</title>
       <link>http://localhost:1313/posts/cafe/mat/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
@@ -37,13 +135,6 @@
       <description></description>
     </item>
     <item>
-      <title>Intermolecular bonding</title>
-      <link>http://localhost:1313/posts/chemistry/intbonding/</link>
-      <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/intbonding/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Pressure</title>
       <link>http://localhost:1313/posts/physics/pressure/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
@@ -51,38 +142,10 @@
       <description></description>
     </item>
     <item>
-      <title>Stoichiometry</title>
-      <link>http://localhost:1313/posts/chemistry/stoi/</link>
-      <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/stoi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Acids, Bases &amp; Salts</title>
-      <link>http://localhost:1313/posts/chemistry/abs/</link>
-      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/abs/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Causes of WW2</title>
       <link>http://localhost:1313/posts/history/ww2/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/history/ww2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kinetics</title>
-      <link>http://localhost:1313/posts/chemistry/kin/</link>
-      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/kin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Organic Chemistry</title>
-      <link>http://localhost:1313/posts/chemistry/org/</link>
-      <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/org/</guid>
       <description></description>
     </item>
     <item>
@@ -97,41 +160,6 @@
       <link>http://localhost:1313/posts/history/nazi/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/history/nazi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dynamic Equilibrium</title>
-      <link>http://localhost:1313/posts/chemistry/dyne/</link>
-      <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/dyne/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thermodynamics</title>
-      <link>http://localhost:1313/posts/chemistry/thermo/</link>
-      <pubDate>Fri, 03 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/thermo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Electrochemistry</title>
-      <link>http://localhost:1313/posts/chemistry/electrochem/</link>
-      <pubDate>Wed, 01 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/electrochem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Redox</title>
-      <link>http://localhost:1313/posts/chemistry/redox/</link>
-      <pubDate>Wed, 01 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/redox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Physical Periodicity</title>
-      <link>http://localhost:1313/posts/chemistry/pperiodicity/</link>
-      <pubDate>Mon, 01 Sep 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/pperiodicity/</guid>
       <description></description>
     </item>
     <item>
@@ -163,38 +191,10 @@
       <description></description>
     </item>
     <item>
-      <title>Atomic Structure</title>
-      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chemical Bonding</title>
-      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Measurement</title>
       <link>http://localhost:1313/posts/physics/measurement/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/physics/measurement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Polymers</title>
-      <link>http://localhost:1313/posts/chemistry/polymers/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Separation Techniques</title>
-      <link>http://localhost:1313/posts/chemistry/separation/</link>
-      <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
       <description></description>
     </item>
   </channel>

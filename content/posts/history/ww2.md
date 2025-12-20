@@ -2,7 +2,7 @@
 date: '2025-10-04T23:05:54+08:00'
 draft: false
 title: 'Causes of WW2'
-image: '/img/ww2.JPG'
+image: '/img/hist/ww2.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -230,4 +230,4 @@ categories: ['history']
 ---
 
 # PDF VERSION
-{{< embed-pdf src="/pdf/ww2.pdf" width="750px" height="620px">}}
+{{< embed-pdf src="/pdf/hist/ww2.pdf" width="750px" height="620px">}}

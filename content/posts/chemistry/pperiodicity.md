@@ -1,8 +1,8 @@
 ---
-date: '2025-09-01T23:05:54+08:00'
+date: '2025-10-26T23:05:54+08:00'
 draft: false
 title: 'Physical Periodicity'
-image: '/img/pp.JPG'
+image: '/img/ch/pp.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/pp.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/pp.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/pp.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/pp.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers

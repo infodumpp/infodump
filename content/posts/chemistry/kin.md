@@ -1,5 +1,5 @@
 ---
-date: '2025-10-04T23:05:54+08:00'
+date: '2025-10-29T23:05:54+08:00'
 draft: false
 title: 'Kinetics'
 image: '/img/kinetics.JPG'
@@ -17,11 +17,11 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/kinetics.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/kinetics.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/kinetics.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/kinetics.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers

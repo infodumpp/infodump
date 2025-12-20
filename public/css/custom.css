@@ -1,0 +1,13 @@
+/* ================================
+   TAG GALLERY – EASY CUSTOM COLORS
+   ================================ */
+
+/* 🎨 CHANGE COLORS HERE */
+:root {
+    --tag-bg: #d2dbeb;          /* button background */
+    --tag-text: #01162b;        /* text color */
+    --tag-hover-bg: #94a2bf;    /* hover background */
+    --tag-hover-text: #ffffff; /* hover text */
+    --tag-border: #94a2bf;      /* border color */
+  }
+  

@@ -1,8 +1,8 @@
 ---
-date: '2025-03-10T23:05:54+08:00'
+date: '2025-10-21T23:05:54+08:00'
 draft: false
 title: 'Atomic Structure'
-image: '/img/atom.JPG'
+image: '/img/ch/atom.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
- {{< embed-pdf src="/pdf/atomicstructure.pdf" width="800px" height="620px">}}
+ {{< embed-pdf src="/pdf/chem/atomicstructure.pdf" width="800px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/atomicstructure.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/atomicstructure.pdf" download>📄 Download PDF</a>
 </p>
 
 

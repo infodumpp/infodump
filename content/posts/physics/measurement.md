@@ -2,7 +2,7 @@
 date: '2025-03-10T23:05:54+08:00'
 draft: false
 title: 'Measurement'
-image: '/img/measure.JPG'
+image: '/img/ph/measure.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -16,11 +16,11 @@ categories: ['physics']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/measurement.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/ph/measurement.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:left;">
-  <a class="download-btn" href="/pdf/measurement.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/ph/measurement.pdf" download>📄 Download PDF</a>
 </p>
 
 ### Common errors include

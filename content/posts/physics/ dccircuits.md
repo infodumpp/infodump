@@ -2,7 +2,7 @@
 date: '2025-07-03T23:05:54+08:00'
 draft: false
 title: 'DC Circuits'
-image: '/img/dccircuits.JPG'
+image: '/img/ph/dc.JPG'
 tags: ['physics', 'notes','S4']
 categories: ['physics']
 ---
@@ -14,10 +14,10 @@ categories: ['physics']
 
 # ⚡️
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/DC circuits.pdf" width="900px" height="850px">}}
+  {{< embed-pdf src="/pdf/ph/DC circuits.pdf" width="900px" height="850px">}}
 </div>
 
 <p style="text-align:left;">
-  <a class="download-btn" href="/pdf/DC circuits.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/ph/DC circuits.pdf" download>📄 Download PDF</a>
 </p>
 

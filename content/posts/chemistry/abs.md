@@ -1,8 +1,8 @@
 ---
-date: '2025-10-04T23:05:54+08:00'
+date: '2025-10-23T23:05:54+08:00'
 draft: false
 title: 'Acids, Bases & Salts'
-image: '/img/acids.JPG'
+image: '/img/ch/acids.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -18,11 +18,11 @@ categories: ['chemistry']
 
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/acids.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/acids.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/acids.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/acids.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers

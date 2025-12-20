@@ -2,7 +2,7 @@
 date: '2025-10-07T23:05:54+08:00'
 draft: false
 title: 'Pressure'
-image: '/img/press.JPG'
+image: '/img/ph/press.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['physics']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/pressure.pdf" width="800px" height="620px">}}
+  {{< embed-pdf src="/pdf/ph/pressure.pdf" width="800px" height="620px">}}
 </div>
 
 <p style="text-align:left;">
-  <a class="download-btn" href="/pdf/pressure.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/ph/pressure.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers

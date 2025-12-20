@@ -2,7 +2,7 @@
 date: '2025-10-04T23:05:54+08:00'
 draft: false
 title: 'The Rise of the Nazi Party'
-image: '/img/nazi.JPG'
+image: '/img/hist/nazi.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -194,4 +194,4 @@ categories: ['history']
 ---
 
 # PDF VERSION:
-{{< embed-pdf src="/pdf/nazi.pdf" width="750px" height="620px">}}
+{{< embed-pdf src="/pdf/hist/nazi.pdf" width="750px" height="620px">}}

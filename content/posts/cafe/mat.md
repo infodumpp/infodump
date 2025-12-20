@@ -2,7 +2,7 @@
 date: '2025-10-20T23:05:54+08:00'
 draft: false
 title: 'Ultimate Matcha Guide'
-image: '/img/matcha.JPG'
+image: '/img/foodie/matcha.JPG'
 cover: 
 tags: ['food connoisseur','food']
 categories: ['food connoisseur']

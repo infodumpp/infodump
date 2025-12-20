@@ -1,8 +1,8 @@
 ---
-date: '2025-10-04T23:05:54+08:00'
+date: '2025-10-24T23:05:54+08:00'
 draft: false
 title: 'Organic Chemistry'
-image: '/img/org.JPG'
+image: '/img/ch/org.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/org.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/org.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/org.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/org.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers

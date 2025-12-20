@@ -2,7 +2,7 @@
 date: '2025-10-08T23:05:54+08:00'
 draft: false
 title: 'Static Electricity'
-image: '/img/statice.JPG'
+image: '/img/ph/statice.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['physics']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/statice.pdf" width="800px" height="650px">}}
+  {{< embed-pdf src="/pdf/ph/statice.pdf" width="800px" height="650px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/statice.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/ph/statice.pdf" download>📄 Download PDF</a>
 </p>
 # 🚨 Important pointers
 {{< box >}}

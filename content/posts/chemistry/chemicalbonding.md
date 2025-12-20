@@ -1,8 +1,8 @@
 ---
-date: '2025-03-10T23:05:54+08:00'
+date: '2025-10-21T23:05:54+08:00'
 draft: false
 title: 'Chemical Bonding'
-image: '/img/bond.JPG'
+image: '/img/ch/bond.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -16,9 +16,9 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/chemicalbonding.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/chemicalbonding.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/chemicalbonding.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/chemicalbonding.pdf" download>📄 Download PDF</a>
 </p>

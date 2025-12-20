@@ -1,5 +1,5 @@
 ---
-date: '2025-10-07T23:05:54+08:00'
+date: '2025-10-20T23:05:54+08:00'
 draft: false
 title: 'Stoichiometry'
 image: '/img/stoi.JPG'

@@ -1,8 +1,8 @@
 ---
-date: '2025-03-10T23:05:54+08:00'
+date: '2025-10-20T23:05:54+08:00'
 draft: false
 title: 'Separation Techniques'
-image: '/img/sep.JPG'
+image: '/img/ch/sep.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -16,9 +16,9 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/separation.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/separation.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/separation.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/separation.pdf" download>📄 Download PDF</a>
 </p>

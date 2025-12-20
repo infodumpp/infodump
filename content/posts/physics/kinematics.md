@@ -2,7 +2,7 @@
 date: '2025-04-03T23:05:54+08:00'
 draft: false
 title: 'Kinematics'
-image: '/img/kine.JPG'
+image: '/img/ph/kine.JPG'
 tags: ['physics', 'notes','S3']
 categories: ['physics']
 ---
@@ -13,9 +13,9 @@ categories: ['physics']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/kinematics.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/ph/kinematics.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:left;">
-  <a class="download-btn" href="/pdf/kinematics.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/ph/kinematics.pdf" download>📄 Download PDF</a>
 </p>

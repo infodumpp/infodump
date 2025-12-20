@@ -1,8 +1,8 @@
 ---
-date: '2025-10-01T23:05:54+08:00'
+date: '2025-10-28T23:05:54+08:00'
 draft: false
 title: 'Electrochemistry'
-image: '/img/elec.JPG'
+image: '/img/ch/elec.JPG'
 cover: 
     caption: 'hi'
     width: '200px' 
@@ -17,11 +17,11 @@ categories: ['chemistry']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/elec.pdf" width="850px" height="620px">}}
+  {{< embed-pdf src="/pdf/chem/elec.pdf" width="850px" height="620px">}}
 </div>
 
 <p style="text-align:center;">
-  <a class="download-btn" href="/pdf/elec.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/chem/elec.pdf" download>📄 Download PDF</a>
 </p>
 
 # 🚨 Important pointers
