@@ -1,7 +1,7 @@
 /* static/css/custom.css */
 
 /* Container for buttons */
-#filter-buttons {
+#filter-btn {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;

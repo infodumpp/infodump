@@ -18,7 +18,7 @@
     <meta name="google-site-verification" content="4hde77tmLAm9a1SIduho4XDWwvf1T4UgYoLJz5xter4" />
   
     
-    <title>History | Infodump</title>
+    <title>SMO Open 2017 Solutions | Infodump</title>
   
     
     <link href="http://localhost:1313/css/styles.css" rel="stylesheet"/>
@@ -56,28 +56,148 @@
   
 
     
-<div class="tag-page-container">
-  <h1>Posts tagged: History</h1>
+    
 
-  <ul class="tag-post-list">
-    
-      <li class="tag-post-item">
-        <a href="http://localhost:1313/posts/history/nazi/"><h2>The Rise of the Nazi Party</h2></a>
+    <section class="hero"
+    style='background-image: url("/img/ch/a.JPG"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
+    id="heroSection" onload="adjustTextColor(this)">
+        <div>
+            <h1 class="p-name" id="textOverlay">SMO Open 2017 Solutions</h1>
+            <p class="subtitle"><p class="subtitle">I post <a href="http://localhost:1313/tags/notes/"> notes </a> by subject and <a href="http://localhost:1313/tags/">level</a> , resources, and <a href="http://localhost:1313/tags/food-connoisseur/"> food reviews</a></p></p>
+        </div>
+    </section>
+    <main class="post h-entry container row">
+        <div class="post">
+            <div class="post-data row">
+                <time class="dt-published" datetime="2025-12-23 23:05:54 &#43;0800 PST">
+                    <a class="u-url" href="http://localhost:1313/posts/smo/smoo2017/">Dec 23, 2025</a>
+                </time>
+                <span rel="author" class="p-author h-card">
+                    <img class="u-photo hidden" src="" />
+                    <span class="p-name hidden" rel="me"></span>
+                </span>
+            </div>
+            <div class="e-content">
+                <span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+  Please view this site on a desktop for a better experience.
+</span>
+                
+                <span class="tag-container">
+                    
+                    <a class="p-category tag" href="http://localhost:1313/tags/chemistry/">
+                        chemistry
+                    </a>&nbsp;
+                    
+                    <a class="p-category tag" href="http://localhost:1313/tags/notes/">
+                        notes
+                    </a>&nbsp;
+                    
+                    <a class="p-category tag" href="http://localhost:1313/tags/s3/">
+                        S3
+                    </a>&nbsp;
+                    
+                </span>
+                
+            </div>
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_config = function () {
+                    this.page.url = 'http:\/\/localhost:1313\/posts\/smo\/smoo2017\/';
+                    this.page.identifier = 'posts\/SMO\/smoo2017.md';
+                };
+                (function() { 
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://infodump-1.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the 
+              <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+            </noscript>            
+        </div>
         
-      </li>
-    
-      <li class="tag-post-item">
-        <a href="http://localhost:1313/posts/history/coldwar/"><h2>The Cold War</h2></a>
+    </main>
+    <script>
+        function adjustTextColor(sectionId) {
+            const section = document.getElementById(sectionId);
+            const style = window.getComputedStyle(section);
+            const imageUrl = style
+                .backgroundImage
+                .slice(4, -1)
+                .replace(/["']/g, "");
+            const image = new Image();
+            image.src = imageUrl;
+            image.onload = function () {
+                const canvas = document.createElement('canvas');
+                const context = canvas.getContext('2d');
+                canvas.width = image.width;
+                canvas.height = image.height;
+                context.drawImage(image, 0, 0, image.width, image.height);
+                const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
+                const data = imageData.data;
+                let r = 0,
+                    g = 0,
+                    b = 0;
+                for (let i = 0; i < data.length; i += 4) {
+                    r += data[i];
+                    g += data[i + 1];
+                    b += data[i + 2];
+                }
+                r /= (data.length / 4);
+                g /= (data.length / 4);
+                b /= (data.length / 4);
+                const brightness = Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b);
+                const textColor = brightness > 128
+                    ? 'black'
+                    : 'white';
+                const shadowColor = brightness > 128
+                    ? 'rgba(255, 255, 255, 0.7)'
+                    : 'rgba(0, 0, 0, 0.7)';
+                const textOverlay = document.getElementById('textOverlay');
+                textOverlay.style.color = textColor;
+                textOverlay.style.textShadow = `0 0 5px ${shadowColor}, 0 0 10px ${shadowColor}, 0 0 20px ${shadowColor}, 0 0 40px ${shadowColor}, 0 0 80px ${shadowColor}, 0 0 90px ${shadowColor}, 0 0 100px ${shadowColor}, 0 0 150px ${shadowColor}`;
+            };
+        }
         
-      </li>
-    
-      <li class="tag-post-item">
-        <a href="http://localhost:1313/posts/history/ww2/"><h2>Causes of WW2</h2></a>
-        
-      </li>
-    
-  </ul>
-</div>
+        adjustTextColor('heroSection');
+    </script>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    const id = entry
+                        .target
+                        .getAttribute('id');
+
+                    if (entry.intersectionRatio > 0) {
+                        clearActiveStatesInTableOfContents();
+                        document
+                            .querySelector(`nav li a[href="#${id}"]`)
+                            .parentElement
+                            .classList
+                            .add('active');
+                    }
+                });
+            });
+            document
+                .querySelectorAll('h1[id],h2[id],h3[id],h4[id]')
+                .forEach((section) => {
+                    observerForTableOfContentActiveState.observe(section);
+                });
+
+        });
+
+        function clearActiveStatesInTableOfContents() {
+            document
+                .querySelectorAll('nav li')
+                .forEach((section) => {
+                    section
+                        .classList
+                        .remove('active');
+                });
+        }
+    </script>
 
 
     <footer>
@@ -107,28 +227,6 @@
     window.store = {
     
     
-    "http:\/\/localhost:1313\/about\/": {
-        
-        "title": "About",
-            "tags": [],
-    "content": "Hi ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I’m a student currently studying in Singapore- this is my platform where I share notes/resources that you may find helpful! I decided to name this infodump as I have a ton of interests/ passions (if you couldn’t tell hehe). Feel free to browse around ⊹ ࣪ ˖\nFeel free to email me for any note requests / feedback as I have not uploaded all my notes yet!\nAgain, thanks for visiting this site\n", 
-    "url": "http:\/\/localhost:1313\/about\/",
-    "image": "\/img\/garden.jpg",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/": {
-        
-        "title": "Infodump",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/",
-    "image": "",
-    "description": ""
-        },
-    
-    
     "http:\/\/localhost:1313\/tags\/": {
         
         "title": "Browse all tags",
@@ -151,13 +249,13 @@
         },
     
     
-    "http:\/\/localhost:1313\/posts\/chemistry\/dynamicequilibrium\/": {
+    "http:\/\/localhost:1313\/": {
         
-        "title": "Dynamic Equilibrium",
-            "tags": [ "chemistry",  "notes",  "S4", ],
-    "content": " Please view this site on a desktop for a better experience. 📄 Download PDF 🚨 Important pointers Don’t consider solids for Kc value mass of the catalyst remains unchanged ", 
-    "url": "http:\/\/localhost:1313\/posts\/chemistry\/dynamicequilibrium\/",
-    "image": "\/img\/ch\/dyn.JPG",
+        "title": "Infodump",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/",
+    "image": "",
     "description": ""
         },
     
@@ -180,6 +278,50 @@
     "content": "", 
     "url": "http:\/\/localhost:1313\/posts\/",
     "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/tags\/s3\/": {
+        
+        "title": "S3",
+            "tags": [],
+    "content": "", 
+    "url": "http:\/\/localhost:1313\/tags\/s3\/",
+    "image": "",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/smo\/smoo2017\/": {
+        
+        "title": "SMO Open 2017 Solutions",
+            "tags": [ "chemistry",  "notes",  "S3", ],
+    "content": " Please view this site on a desktop for a better experience. ", 
+    "url": "http:\/\/localhost:1313\/posts\/smo\/smoo2017\/",
+    "image": "\/img\/ch\/a.JPG",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/about\/": {
+        
+        "title": "About",
+            "tags": [],
+    "content": "Hi ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I’m a student currently studying in Singapore- this is my platform where I share notes/resources that you may find helpful! I decided to name this infodump as I have a ton of interests/ passions (if you couldn’t tell hehe). Feel free to browse around ⊹ ࣪ ˖\nFeel free to email me for any note requests / feedback as I have not uploaded all my notes yet!\nAgain, thanks for visiting this site\n", 
+    "url": "http:\/\/localhost:1313\/about\/",
+    "image": "\/img\/garden.jpg",
+    "description": ""
+        },
+    
+    
+    "http:\/\/localhost:1313\/posts\/chemistry\/dynamicequilibrium\/": {
+        
+        "title": "Dynamic Equilibrium",
+            "tags": [ "chemistry",  "notes",  "S4", ],
+    "content": " Please view this site on a desktop for a better experience. 📄 Download PDF 🚨 Important pointers Don’t consider solids for Kc value mass of the catalyst remains unchanged ", 
+    "url": "http:\/\/localhost:1313\/posts\/chemistry\/dynamicequilibrium\/",
+    "image": "\/img\/ch\/dyn.JPG",
     "description": ""
         },
     
@@ -268,17 +410,6 @@
     "content": " Please view this site on a desktop for a better experience. 📄 Download PDF 🚨 Important pointers prop-1-ene does not exist as there is only 1 way to configure C3H6 ", 
     "url": "http:\/\/localhost:1313\/posts\/chemistry\/org\/",
     "image": "\/img\/ch\/org.JPG",
-    "description": ""
-        },
-    
-    
-    "http:\/\/localhost:1313\/tags\/s3\/": {
-        
-        "title": "S3",
-            "tags": [],
-    "content": "", 
-    "url": "http:\/\/localhost:1313\/tags\/s3\/",
-    "image": "",
     "description": ""
         },
     

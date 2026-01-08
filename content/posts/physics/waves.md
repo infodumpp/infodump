@@ -15,11 +15,11 @@ categories: ['physics']
 </span>
 
 <div class="pdf-container">
-  {{< embed-pdf src="/pdf/waves.pdf" width="750px" height="620px">}}
+  {{< embed-pdf src="/pdf/ph/waves.pdf" width="750px" height="620px">}}
 </div>
 
 <p style="text-align:left;">
-  <a class="download-btn" href="/pdf/waves.pdf" download>📄 Download PDF</a>
+  <a class="download-btn" href="/pdf/ph/waves.pdf" download>📄 Download PDF</a>
 </p>
 
 > ### Common errors
