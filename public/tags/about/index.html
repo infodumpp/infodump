@@ -18,7 +18,7 @@
     <meta name="google-site-verification" content="4hde77tmLAm9a1SIduho4XDWwvf1T4UgYoLJz5xter4" />
   
     
-    <title>Electromagnetism | Infodump</title>
+    <title>About | Infodump</title>
   
     
     <link href="http://localhost:1313/css/styles.css" rel="stylesheet"/>
@@ -56,156 +56,17 @@
   
 
     
+<section class="tags-gallery-container">
+
+  <h1>Browse all tags</h1>
+
+  <div id="filter-buttons"></div>
+
+  <div class="tags-gallery">
     
+  </div>
 
-    <section class="hero"
-    style='background-image: url("/img/em.JPG"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
-    id="heroSection" onload="adjustTextColor(this)">
-        <div>
-            <h1 class="p-name" id="textOverlay">Electromagnetism</h1>
-            <p class="subtitle"><p class="subtitle">I post <a href="http://localhost:1313/tags/notes/"> notes </a> by subject and <a href="http://localhost:1313/tags/">level</a> , resources, and <a href="http://localhost:1313/tags/food-connoisseur/"> food reviews</a></p></p>
-        </div>
-    </section>
-    <main class="post h-entry container row">
-        <div class="post">
-            <div class="post-data row">
-                <time class="dt-published" datetime="2025-07-03 23:05:54 &#43;0800 &#43;08">
-                    <a class="u-url" href="http://localhost:1313/posts/physics/em/">Jul 3, 2025</a>
-                </time>
-                <span rel="author" class="p-author h-card">
-                    <img class="u-photo hidden" src="" />
-                    <span class="p-name hidden" rel="me"></span>
-                </span>
-            </div>
-            <div class="e-content">
-                <span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
-  Please view this site on a desktop for a better experience.
-</span>
-<h1 id="heading">⚡️</h1>
-<div class="pdf-container">
-  <iframe src="http://localhost:1313/pdf/em.pdf" width="900px" height="850px"></iframe>
-
-</div>
-<p style="text-align:left;">
-  <a class="download-btn" href="http://localhost:1313/pdf/em.pdf" download>📄 Download PDF</a>
-</p>
-                
-                <span class="tag-container">
-                    
-                    <a class="p-category tag" href="http://localhost:1313/tags/physics/">
-                        physics
-                    </a>&nbsp;
-                    
-                    <a class="p-category tag" href="http://localhost:1313/tags/notes/">
-                        notes
-                    </a>&nbsp;
-                    
-                    <a class="p-category tag" href="http://localhost:1313/tags/s4/">
-                        S4
-                    </a>&nbsp;
-                    
-                </span>
-                
-            </div>
-            <div id="disqus_thread"></div>
-            <script>
-                var disqus_config = function () {
-                    this.page.url = 'http:\/\/localhost:1313\/posts\/physics\/em\/';
-                    this.page.identifier = 'posts\/physics\/em.md';
-                };
-                (function() { 
-                    var d = document, s = d.createElement('script');
-                    s.src = 'https://infodump-1.disqus.com/embed.js';
-                    s.setAttribute('data-timestamp', +new Date());
-                    (d.head || d.body).appendChild(s);
-                })();
-            </script>
-            <noscript>Please enable JavaScript to view the 
-              <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-            </noscript>            
-        </div>
-        
-    </main>
-    <script>
-        function adjustTextColor(sectionId) {
-            const section = document.getElementById(sectionId);
-            const style = window.getComputedStyle(section);
-            const imageUrl = style
-                .backgroundImage
-                .slice(4, -1)
-                .replace(/["']/g, "");
-            const image = new Image();
-            image.src = imageUrl;
-            image.onload = function () {
-                const canvas = document.createElement('canvas');
-                const context = canvas.getContext('2d');
-                canvas.width = image.width;
-                canvas.height = image.height;
-                context.drawImage(image, 0, 0, image.width, image.height);
-                const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
-                const data = imageData.data;
-                let r = 0,
-                    g = 0,
-                    b = 0;
-                for (let i = 0; i < data.length; i += 4) {
-                    r += data[i];
-                    g += data[i + 1];
-                    b += data[i + 2];
-                }
-                r /= (data.length / 4);
-                g /= (data.length / 4);
-                b /= (data.length / 4);
-                const brightness = Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b);
-                const textColor = brightness > 128
-                    ? 'black'
-                    : 'white';
-                const shadowColor = brightness > 128
-                    ? 'rgba(255, 255, 255, 0.7)'
-                    : 'rgba(0, 0, 0, 0.7)';
-                const textOverlay = document.getElementById('textOverlay');
-                textOverlay.style.color = textColor;
-                textOverlay.style.textShadow = `0 0 5px ${shadowColor}, 0 0 10px ${shadowColor}, 0 0 20px ${shadowColor}, 0 0 40px ${shadowColor}, 0 0 80px ${shadowColor}, 0 0 90px ${shadowColor}, 0 0 100px ${shadowColor}, 0 0 150px ${shadowColor}`;
-            };
-        }
-        
-        adjustTextColor('heroSection');
-    </script>
-    <script>
-        window.addEventListener('DOMContentLoaded', () => {
-            const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
-                entries.forEach(entry => {
-                    const id = entry
-                        .target
-                        .getAttribute('id');
-
-                    if (entry.intersectionRatio > 0) {
-                        clearActiveStatesInTableOfContents();
-                        document
-                            .querySelector(`nav li a[href="#${id}"]`)
-                            .parentElement
-                            .classList
-                            .add('active');
-                    }
-                });
-            });
-            document
-                .querySelectorAll('h1[id],h2[id],h3[id],h4[id]')
-                .forEach((section) => {
-                    observerForTableOfContentActiveState.observe(section);
-                });
-
-        });
-
-        function clearActiveStatesInTableOfContents() {
-            document
-                .querySelectorAll('nav li')
-                .forEach((section) => {
-                    section
-                        .classList
-                        .remove('active');
-                });
-        }
-    </script>
+</section>
 
 
     <footer>

@@ -1,18 +1,19 @@
 {{ define "main" }}
-<div class="tag-page-container">
-  <h1>Posts tagged: {{ .Title }}</h1>
+<section class="tags-gallery-container">
 
-  <ul class="tag-post-list">
-    {{ range .Pages.ByDate.Reverse }}
-      <li class="tag-post-item">
-        <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
-        {{ with .Summary }}
-          <p>{{ . }}</p>
-        {{ end }}
-      </li>
-    {{ else }}
-      <p>No posts found for this tag.</p>
+  <h1>Browse all tags</h1>
+
+  <div id="filter-buttons"></div>
+
+  <div class="tags-gallery">
+    {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}" class="tag-card">
+        <h2>#{{ .LinkTitle }}</h2>
+        <p>{{ .Count }} post{{ if ne .Count 1 }}s{{ end }}</p>
+      </a>
     {{ end }}
-  </ul>
-</div>
+  </div>
+
+</section>
 {{ end }}
+

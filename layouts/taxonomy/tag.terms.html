@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="tags-gallery-container">
+  <h1>Browse all tags</h1>
+
+  <div class="tags-gallery">
+    {{ range .Data.Terms.Alphabetical }}
+      {{ $termName := .Name }}
+      {{ with $.Site.GetPage (printf "/tags/%s" ($termName | urlize)) }}
+        <a href="{{ .RelPermalink }}" class="tag-card">
+          <h2>#{{ $termName }}</h2>
+          <p>{{ $.Site.Taxonomies.tags.Get $termName | len }} post{{ if ne ($.Site.Taxonomies.tags.Get $termName | len) 1 }}s{{ end }}</p>
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
