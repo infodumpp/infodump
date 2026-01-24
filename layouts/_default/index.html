@@ -18,6 +18,48 @@
     <button class="fbtn" data-cat="food-connoisseur">Connoisseur</button>
   </div>
 
+<!-- SEARCH BAR -->
+<div id="search-container">
+  <input
+    id="search-input"
+    type="text"
+    placeholder="Search for posts..."
+    style="
+      width: 100%;
+      max-width: 550px;
+      margin: 12px auto 24px;
+      display: block;
+      padding: 8px 5px;
+      border-radius: 12px;
+      border: 1px solid #cea273;
+      color:#1f2937;
+      font-size: 14px;
+      outline: none;
+    "
+  />
+</div>
+
+
+
+<!-- SEARCH FILTER JS -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const searchInput = document.getElementById('search-input');
+    if (!searchInput) return;
+  
+    searchInput.addEventListener('input', function () {
+      const query = this.value.toLowerCase();
+      const posts = document.querySelectorAll('.post-card');
+  
+      posts.forEach(post => {
+        const title = post.querySelector('.post-title');
+        const text = title ? title.textContent.toLowerCase() : '';
+        post.style.display = text.includes(query) ? 'block' : 'none';
+      });
+    });
+  });
+  </script>
+
   <div class="post-grid" id="post-grid">
     {{ range .Site.RegularPages }}
       {{ $cats := slice }}
@@ -45,39 +87,39 @@
 
 <!-- CATEGORY FILTER JS -->
 <script>
-(function () {
-  const buttons = document.querySelectorAll('#category-buttons .fbtn');
-  const posts = Array.from(document.querySelectorAll('.post-card'));
-
-  function setActiveBtn(activeBtn) {
-    buttons.forEach(b => b.classList.remove('active'));
-    activeBtn.classList.add('active');
-  }
-
-  function filterPosts(cat) {
-    posts.forEach(p => {
-      if (cat === 'all') p.style.display = 'block';
-      else p.style.display = p.classList.contains(cat) ? 'block' : 'none';
+  (function () {
+    const buttons = document.querySelectorAll('#category-buttons .fbtn');
+    const posts = Array.from(document.querySelectorAll('.post-card'));
+  
+    function setActiveBtn(activeBtn) {
+      buttons.forEach(b => b.classList.remove('active'));
+      activeBtn.classList.add('active');
+    }
+  
+    function filterPosts(cat) {
+      posts.forEach(p => {
+        if (cat === 'all') p.style.display = 'block';
+        else p.style.display = p.classList.contains(cat) ? 'block' : 'none';
+      });
+    }
+  
+    buttons.forEach(btn => {
+      btn.addEventListener('click', function () {
+        const cat = this.getAttribute('data-cat');
+        setActiveBtn(this);
+        filterPosts(cat);
+        if (cat === 'all') history.replaceState(null, '', location.pathname);
+        else location.hash = cat;
+      });
     });
-  }
-
-  buttons.forEach(btn => {
-    btn.addEventListener('click', function () {
-      const cat = this.getAttribute('data-cat');
-      setActiveBtn(this);
-      filterPosts(cat);
-      if (cat === 'all') history.replaceState(null, '', location.pathname);
-      else location.hash = cat;
-    });
-  });
-
-  const hash = location.hash.replace('#','');
-  if (hash) {
-    const btn = Array.from(buttons).find(b => b.getAttribute('data-cat') === hash);
-    if (btn) btn.click();
-  }
-})();
-</script>
+  
+    const hash = location.hash.replace('#','');
+    if (hash) {
+      const btn = Array.from(buttons).find(b => b.getAttribute('data-cat') === hash);
+      if (btn) btn.click();
+    }
+  })();
+  </script>
 
 <!-- POST CARDS CSS -->
 <style>

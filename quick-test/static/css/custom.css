@@ -52,3 +52,75 @@
   font-size: 0.75rem;
   opacity: 0.85;
 }
+
+/* Search bar container */
+#search-container{
+  display:flex;
+  justify-content:center;
+  margin: 10px 0 25px;
+}
+
+/* Search input */
+#post-search{
+  width: 100%;
+  max-width: 420px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  border: 1px solid #cea273;
+  outline: none;
+  font-size: 14px;
+  background: #fffaf2;
+  color: #002147;
+  transition: 0.2s ease;
+}
+
+/* Focus effect */
+#post-search:focus{
+  border-color: #203b37;
+  box-shadow: 0 0 0 3px rgba(32,59,55,0.12);
+}
+
+/* Mobile */
+@media(max-width:600px){
+  #post-search{
+    max-width: 90%;
+    font-size: 13px;
+  }
+}
+
+/* Search bar container */
+#search-container {
+  display: flex;
+  justify-content: center;
+  margin: 12px 0 24px;
+}
+
+/* Search input */
+#search-input {
+  width: 100%;
+  max-width: 420px;
+  padding: 10px 14px;
+  border-radius: 14px;
+
+  background-color: #fcedd3;     /* 🔥 background */
+  color: #002147;                /* 🔥 text color */
+
+  border: 1.5px solid #cea273;
+  font-size: 14px;
+  outline: none;
+
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+/* Placeholder text */
+#search-input::placeholder {
+  color: #7a5a2e;
+  opacity: 0.8;
+}
+
+/* Focus (when clicking / typing) */
+#search-input:focus {
+  border-color: #203b37;
+  box-shadow: 0 0 0 3px rgba(32, 59, 55, 0.15);
+  background-color: #fff;
+}
