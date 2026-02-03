@@ -1,14 +1,14 @@
 ---
-date: '2025-11-03T23:05:54+08:00'
+date: '2025-08-03T23:05:54+08:00'
 draft: false
-title: 'Basic differentiation'
-image: '/img/dccircuits.JPG'
+title: 'Basic differentiation Notes'
+image: '/img/math/diff.JPG'
 tags: ['math', 'notes']
 categories: ['math']
 ---
-basic differentiation techniques, normal and tangent
+
 <!--more-->
-<span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
+<span style="background-color:#abcfcd; padding:2px 4px; border-radius:4px; font-size:20px;">
   Please view this site on a desktop for a better experience.
 </span>
 
@@ -22,4 +22,4 @@ basic differentiation techniques, normal and tangent
 </p>
 
 # Solving differential equation flow chart
-{{< embed-pdf src="/pdf/diff.pdf" width="700px" height="750px" >}}
+{{< embed-pdf src="/pdf/diff.pdf" width="900px" height="950px" >}}
