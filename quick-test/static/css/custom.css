@@ -25,7 +25,7 @@
 .tags-gallery a.tag-card {
   all: unset;                       /* removes ALL theme defaults */
   display: inline-block;
-  background-color: #203b37;        /* tab color */
+  background-color: #7eb8a8;        /* tab color */
   color: #ffffff;                   /* text color */
   padding: 6px 14px;
   border-radius: 20px;
@@ -37,7 +37,7 @@
 
 /* Hover state */
 .tags-gallery a.tag-card:hover {
-  background-color: #95adbf;
+  background-color: #aad6c9;
   transform: translateY(-2px);
 }
 

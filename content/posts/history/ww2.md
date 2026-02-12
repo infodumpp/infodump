@@ -14,6 +14,17 @@ categories: ['history']
 <!--more-->
 # Causes of World War II (Summary Notes)
 
+# PDF VERSION
+
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/hist/ww2.pdf" width="750px" height="620px">}}
+</div>
+
+<p style="text-align:center;">
+  <a class="download-btn" href="/pdf/hist/ww2.pdf" download>📄 Download PDF</a>
+</p>
+
+
 ## ⏳ 1929 – The Great Depression
 
 - **Economic nationalism:**  
@@ -229,5 +240,4 @@ categories: ['history']
 
 ---
 
-# PDF VERSION
-{{< embed-pdf src="/pdf/hist/ww2.pdf" width="750px" height="620px">}}
+

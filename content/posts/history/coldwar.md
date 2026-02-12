@@ -14,8 +14,19 @@ categories: ['history']
 <!--more-->
 # The Start of Cold War
 
-{{< embed-pdf src="/pdf/hist/ogcoldwar.pdf" width="750px" height="620px">}}
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/hist/ogcoldwar.pdf" width="750px" height="620px">}}
+</div>
+
+<p style="text-align:center;">
+  <a class="download-btn" href="/pdf/hist/ogcoldwar.pdf" download>📄 Download PDF</a>
+</p>
 
 # The End of Cold War
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/hist/endofcoldwar.pdf" width="750px" height="620px">}}
+</div>
 
-{{< embed-pdf src="/pdf/hist/endcoldwar.pdf" width="750px" height="620px">}}
+<p style="text-align:center;">
+  <a class="download-btn" href="/pdf/hist/endofcoldwar.pdf" download>📄 Download PDF</a>
+</p>

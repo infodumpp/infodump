@@ -6,13 +6,13 @@
     <description>Recent content in Posts on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 23:05:54 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 23:05:54 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic differentiation Notes</title>
-      <link>http://localhost:1313/posts/math/diff/</link>
-      <pubDate>Mon, 03 Nov 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/diff/</guid>
+      <title>2nd Order Differentiation</title>
+      <link>http://localhost:1313/posts/math/de/</link>
+      <pubDate>Sat, 01 Nov 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/de/</guid>
       <description></description>
     </item>
     <item>
@@ -160,6 +160,20 @@
       <link>http://localhost:1313/posts/history/nazi/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/history/nazi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Further Integration Techniques</title>
+      <link>http://localhost:1313/posts/math/integration/</link>
+      <pubDate>Wed, 03 Sep 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/integration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basic differentiation Notes</title>
+      <link>http://localhost:1313/posts/math/diff/</link>
+      <pubDate>Sun, 03 Aug 2025 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/diff/</guid>
       <description></description>
     </item>
     <item>

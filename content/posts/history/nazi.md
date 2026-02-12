@@ -14,6 +14,17 @@ categories: ['history']
 <!--more-->
 # The Rise of the Nazi Party (Summary Notes)
 
+# PDF VERSION:
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/hist/nazi.pdf" width="750px" height="620px">}}
+</div>
+
+<p style="text-align:center;">
+  <a class="download-btn" href="/pdf/hist/nazi.pdf" download>📄 Download PDF</a>
+</p>
+
+
+
 ## ⏳ Before WW1
 - Germany had been a great power (Kaiser, ministers, and army)  
   - Kaiser relied on chancellor, chief ministers, and commanders
@@ -193,5 +204,3 @@ categories: ['history']
 
 ---
 
-# PDF VERSION:
-{{< embed-pdf src="/pdf/hist/nazi.pdf" width="750px" height="620px">}}
