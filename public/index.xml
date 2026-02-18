@@ -6,27 +6,41 @@
     <description>Recent content on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 19:08:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 19:08:07 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 12 Dec 2025 19:08:07 +0800</pubDate>
+      <pubDate>Thu, 12 Feb 2026 19:08:07 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hi ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I’m Chloe, a student currently studying in Singapore studying under the A-level (GCSE) syllabus taking subjects: H2 Math, Further Math, H2 Econs, and H2 Physics. This is my platform where I share notes/resources that you may find helpful! In my free time I like to play badminton, play the piano, crochet and eat good food. Feel free to browse around ⊹ ࣪ ˖&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2nd Order Differentiation</title>
+      <link>http://localhost:1313/posts/math/de/</link>
+      <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basic differentiation Notes</title>
+      <link>http://localhost:1313/posts/math/diff/</link>
+      <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/diff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Further Integration Techniques</title>
+      <link>http://localhost:1313/posts/math/integration/</link>
+      <pubDate>Mon, 09 Feb 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/integration/</guid>
+      <description></description>
     </item>
     <item>
       <title>SBQ Answer Scheme</title>
       <link>http://localhost:1313/posts/history/sbq/</link>
       <pubDate>Tue, 04 Nov 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/history/sbq/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2nd Order Differentiation</title>
-      <link>http://localhost:1313/posts/math/de/</link>
-      <pubDate>Sat, 01 Nov 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/de/</guid>
       <description></description>
     </item>
     <item>
@@ -188,20 +202,6 @@
       <link>http://localhost:1313/posts/history/nazi/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
       <guid>http://localhost:1313/posts/history/nazi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Further Integration Techniques</title>
-      <link>http://localhost:1313/posts/math/integration/</link>
-      <pubDate>Wed, 03 Sep 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/integration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basic differentiation Notes</title>
-      <link>http://localhost:1313/posts/math/diff/</link>
-      <pubDate>Sun, 03 Aug 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/diff/</guid>
       <description></description>
     </item>
     <item>

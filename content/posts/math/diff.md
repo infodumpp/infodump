@@ -1,5 +1,5 @@
 ---
-date: '2025-08-03T23:05:54+08:00'
+date: '2026-02-10T23:05:54+08:00'
 draft: false
 title: 'Basic differentiation Notes'
 image: '/img/math/diff.JPG'

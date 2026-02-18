@@ -60,7 +60,7 @@ categories: ['food connoisseur']
           <td style='padding: 8px;'>Pearl Milk Tea</td>
           <td>$5.60</td>
           <td>5/5</td>
-          <td>3.6/5</td>
+          <td>3.9/5</td>
           <td>Absolutely delicious, authentic Taiwanese milk tea.</td>
         </tr>
       </tbody>
@@ -89,8 +89,8 @@ categories: ['food connoisseur']
           <td style='padding: 8px;'>Brown Sugar Bobo Milk</td>
           <td>$6.50</td>
           <td>4/5</td>
-          <td>3.8/5</td>
-          <td>Rich milk taste</td>
+          <td>3.6/5</td>
+          <td>Rich milk taste, they give a higher volume of milktea compared to other stores (a default large) which is probably why its more expensive</td>
         </tr>
       </tbody>
     </table>
@@ -121,6 +121,13 @@ categories: ['food connoisseur']
           <td>3.8/5</td>
           <td>3.8/5</td>
           <td>Soothing taste, tastes similar to oolong</td>
+        </tr>
+        <tr>
+          <td style='padding: 8px;'>Camellia Oolong</td>
+          <td>$5.20</td>
+          <td>4/5</td>
+          <td>3.9/5</td>
+          <td>Soothing taste, tastes similar to Tie Guan Yin but has a more fragrant flower scent</td>
         </tr>
         <tr>
           <td style='padding: 8px;'>Osmanthus Oolong Tea</td>

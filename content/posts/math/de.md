@@ -1,5 +1,5 @@
 ---
-date: '2025-11-01T23:05:54+08:00'
+date: '2026-02-10T23:05:54+08:00'
 draft: false
 title: '2nd Order Differentiation'
 image: '/img/math/2de.JPG'

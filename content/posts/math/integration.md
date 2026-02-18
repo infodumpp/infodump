@@ -1,5 +1,5 @@
 ---
-date: '2025-09-03T23:05:54+08:00'
+date: '2026-02-09T23:05:54+08:00'
 draft: false
 title: 'Further Integration Techniques'
 image: '/img/math/fint.JPG'
