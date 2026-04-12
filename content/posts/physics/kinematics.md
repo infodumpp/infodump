@@ -8,6 +8,7 @@ categories: ['physics']
 ---
 
 <!--more-->
+# Displacement, velocity, and acceleration
 <span style="background-color:#ffcccc; padding:2px 4px; border-radius:4px; font-size:20px;">
   Please view this site on a desktop for a better experience.
 </span>
@@ -18,4 +19,13 @@ categories: ['physics']
 
 <p style="text-align:left;">
   <a class="download-btn" href="/pdf/ph/kinematics.pdf" download>📄 Download PDF</a>
+</p>
+
+# Conversion of s-t to v-t to a-t graphs
+<div class="pdf-container">
+  {{< embed-pdf src="/pdf/ph/kinematics_graphs_summary.pdf" width="750px" height="620px">}}
+</div>
+
+<p style="text-align:left;">
+  <a class="download-btn" href="/pdf/ph/kinematics_graphs_summary.pdf" download>📄 Download PDF</a>
 </p>

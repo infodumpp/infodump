@@ -6,8 +6,15 @@
     <description>Recent content on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Feb 2026 19:08:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 23:05:54 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vectors I</title>
+      <link>http://localhost:1313/posts/math/vectors1/</link>
+      <pubDate>Sat, 11 Apr 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/math/vectors1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
