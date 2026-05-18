@@ -2,87 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browse all tags on Infodump</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:59468/tags/</link>
     <description>Recent content in Browse all tags on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Feb 2026 19:08:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 May 2026 23:05:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:59468/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
-      <pubDate>Thu, 12 Feb 2026 19:08:07 +0800</pubDate>
-      <guid>http://localhost:1313/tags/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
-      <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
+      <title>Economics</title>
+      <link>http://localhost:59468/tags/economics/</link>
+      <pubDate>Sat, 16 May 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:59468/tags/economics/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/tags/notes/</link>
-      <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/notes/</guid>
+      <link>http://localhost:59468/tags/notes/</link>
+      <pubDate>Sat, 16 May 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:59468/tags/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:59468/tags/math/</link>
+      <pubDate>Sat, 11 Apr 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:59468/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:59468/tags/about/</link>
+      <pubDate>Thu, 12 Feb 2026 19:08:07 +0800</pubDate>
+      <guid>http://localhost:59468/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
+      <link>http://localhost:59468/tags/history/</link>
       <pubDate>Tue, 04 Nov 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
+      <guid>http://localhost:59468/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>S4</title>
-      <link>http://localhost:1313/tags/s4/</link>
+      <link>http://localhost:59468/tags/s4/</link>
       <pubDate>Tue, 04 Nov 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/s4/</guid>
+      <guid>http://localhost:59468/tags/s4/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemistry</title>
-      <link>http://localhost:1313/tags/chemistry/</link>
+      <link>http://localhost:59468/tags/chemistry/</link>
       <pubDate>Fri, 31 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/chemistry/</guid>
+      <guid>http://localhost:59468/tags/chemistry/</guid>
       <description></description>
     </item>
     <item>
       <title>S3</title>
-      <link>http://localhost:1313/tags/s3/</link>
+      <link>http://localhost:59468/tags/s3/</link>
       <pubDate>Fri, 24 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/s3/</guid>
+      <guid>http://localhost:59468/tags/s3/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:1313/tags/food/</link>
+      <link>http://localhost:59468/tags/food/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/food/</guid>
+      <guid>http://localhost:59468/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Food Connoisseur</title>
-      <link>http://localhost:1313/tags/food-connoisseur/</link>
+      <link>http://localhost:59468/tags/food-connoisseur/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/food-connoisseur/</guid>
+      <guid>http://localhost:59468/tags/food-connoisseur/</guid>
       <description></description>
     </item>
     <item>
       <title>S2</title>
-      <link>http://localhost:1313/tags/s2/</link>
+      <link>http://localhost:59468/tags/s2/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/s2/</guid>
+      <guid>http://localhost:59468/tags/s2/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
+      <link>http://localhost:59468/tags/physics/</link>
       <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/tags/physics/</guid>
+      <guid>http://localhost:59468/tags/physics/</guid>
       <description></description>
     </item>
   </channel>

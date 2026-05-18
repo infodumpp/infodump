@@ -2,248 +2,255 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infodump</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:59468/</link>
     <description>Recent content on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 May 2026 23:05:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:59468/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Central Economic Problem</title>
+      <link>http://localhost:59468/posts/econs/centraleconomicproblem/</link>
+      <pubDate>Sat, 16 May 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:59468/posts/econs/centraleconomicproblem/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Vectors I</title>
-      <link>http://localhost:1313/posts/math/vectors1/</link>
+      <link>http://localhost:59468/posts/math/vectors1/</link>
       <pubDate>Sat, 11 Apr 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/vectors1/</guid>
+      <guid>http://localhost:59468/posts/math/vectors1/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:59468/about/</link>
       <pubDate>Thu, 12 Feb 2026 19:08:07 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:59468/about/</guid>
       <description>&lt;p&gt;Hi ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I&#39;m Chloe, a student currently studying in Singapore under the A-level (GCSE) &#xA;syllabus taking subjects: H2 Math, H2 Further Math, H2 Econs, and H2 Physics. &#xA;This is my platform where I share notes/resources that you may find helpful! &#xA;Feel free to browse around ⊹ ࣪&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Again, thanks for visiting this site&lt;/p&gt;&#xA;&#xA;&lt;section class=&#34;contact-section&#34;&gt;&#xA;  &lt;p&gt;Feel free to email me for any note requests / feedback as I have not uploaded all my notes yet! You can contact me here!&lt;/p&gt;</description>
     </item>
     <item>
       <title>2nd Order Differentiation</title>
-      <link>http://localhost:1313/posts/math/de/</link>
+      <link>http://localhost:59468/posts/math/de/</link>
       <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/de/</guid>
+      <guid>http://localhost:59468/posts/math/de/</guid>
       <description></description>
     </item>
     <item>
       <title>Basic differentiation Notes</title>
-      <link>http://localhost:1313/posts/math/diff/</link>
+      <link>http://localhost:59468/posts/math/diff/</link>
       <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/diff/</guid>
+      <guid>http://localhost:59468/posts/math/diff/</guid>
       <description></description>
     </item>
     <item>
       <title>Further Integration Techniques</title>
-      <link>http://localhost:1313/posts/math/integration/</link>
+      <link>http://localhost:59468/posts/math/integration/</link>
       <pubDate>Mon, 09 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/integration/</guid>
+      <guid>http://localhost:59468/posts/math/integration/</guid>
       <description></description>
     </item>
     <item>
       <title>SBQ Answer Scheme</title>
-      <link>http://localhost:1313/posts/history/sbq/</link>
+      <link>http://localhost:59468/posts/history/sbq/</link>
       <pubDate>Tue, 04 Nov 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/history/sbq/</guid>
+      <guid>http://localhost:59468/posts/history/sbq/</guid>
       <description></description>
     </item>
     <item>
       <title>Dynamic Equilibrium</title>
-      <link>http://localhost:1313/posts/chemistry/dynamicequilibrium/</link>
+      <link>http://localhost:59468/posts/chemistry/dynamicequilibrium/</link>
       <pubDate>Fri, 31 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/dynamicequilibrium/</guid>
+      <guid>http://localhost:59468/posts/chemistry/dynamicequilibrium/</guid>
       <description></description>
     </item>
     <item>
       <title>Thermodynamics</title>
-      <link>http://localhost:1313/posts/chemistry/thermo/</link>
+      <link>http://localhost:59468/posts/chemistry/thermo/</link>
       <pubDate>Thu, 30 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/thermo/</guid>
+      <guid>http://localhost:59468/posts/chemistry/thermo/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinetics</title>
-      <link>http://localhost:1313/posts/chemistry/kin/</link>
+      <link>http://localhost:59468/posts/chemistry/kin/</link>
       <pubDate>Wed, 29 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/kin/</guid>
+      <guid>http://localhost:59468/posts/chemistry/kin/</guid>
       <description></description>
     </item>
     <item>
       <title>Electrochemistry</title>
-      <link>http://localhost:1313/posts/chemistry/electrochem/</link>
+      <link>http://localhost:59468/posts/chemistry/electrochem/</link>
       <pubDate>Tue, 28 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/electrochem/</guid>
+      <guid>http://localhost:59468/posts/chemistry/electrochem/</guid>
       <description></description>
     </item>
     <item>
       <title>Redox</title>
-      <link>http://localhost:1313/posts/chemistry/redox/</link>
+      <link>http://localhost:59468/posts/chemistry/redox/</link>
       <pubDate>Mon, 27 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/redox/</guid>
+      <guid>http://localhost:59468/posts/chemistry/redox/</guid>
       <description></description>
     </item>
     <item>
       <title>Physical Periodicity</title>
-      <link>http://localhost:1313/posts/chemistry/pperiodicity/</link>
+      <link>http://localhost:59468/posts/chemistry/pperiodicity/</link>
       <pubDate>Sun, 26 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/pperiodicity/</guid>
+      <guid>http://localhost:59468/posts/chemistry/pperiodicity/</guid>
       <description></description>
     </item>
     <item>
       <title>Polymers</title>
-      <link>http://localhost:1313/posts/chemistry/polymers/</link>
+      <link>http://localhost:59468/posts/chemistry/polymers/</link>
       <pubDate>Sat, 25 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/polymers/</guid>
+      <guid>http://localhost:59468/posts/chemistry/polymers/</guid>
       <description></description>
     </item>
     <item>
       <title>Organic Chemistry</title>
-      <link>http://localhost:1313/posts/chemistry/org/</link>
+      <link>http://localhost:59468/posts/chemistry/org/</link>
       <pubDate>Fri, 24 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/org/</guid>
+      <guid>http://localhost:59468/posts/chemistry/org/</guid>
       <description></description>
     </item>
     <item>
       <title>Acids, Bases &amp; Salts</title>
-      <link>http://localhost:1313/posts/chemistry/abs/</link>
+      <link>http://localhost:59468/posts/chemistry/abs/</link>
       <pubDate>Thu, 23 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/abs/</guid>
+      <guid>http://localhost:59468/posts/chemistry/abs/</guid>
       <description></description>
     </item>
     <item>
       <title>Intermolecular bonding</title>
-      <link>http://localhost:1313/posts/chemistry/intbonding/</link>
+      <link>http://localhost:59468/posts/chemistry/intbonding/</link>
       <pubDate>Wed, 22 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/intbonding/</guid>
+      <guid>http://localhost:59468/posts/chemistry/intbonding/</guid>
       <description></description>
     </item>
     <item>
       <title>Atomic Structure</title>
-      <link>http://localhost:1313/posts/chemistry/atomicstrcture/</link>
+      <link>http://localhost:59468/posts/chemistry/atomicstrcture/</link>
       <pubDate>Tue, 21 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/atomicstrcture/</guid>
+      <guid>http://localhost:59468/posts/chemistry/atomicstrcture/</guid>
       <description></description>
     </item>
     <item>
       <title>Chemical Bonding</title>
-      <link>http://localhost:1313/posts/chemistry/chemicalbonding/</link>
+      <link>http://localhost:59468/posts/chemistry/chemicalbonding/</link>
       <pubDate>Tue, 21 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/chemicalbonding/</guid>
+      <guid>http://localhost:59468/posts/chemistry/chemicalbonding/</guid>
       <description></description>
     </item>
     <item>
       <title>Separation Techniques</title>
-      <link>http://localhost:1313/posts/chemistry/separation/</link>
+      <link>http://localhost:59468/posts/chemistry/separation/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/separation/</guid>
+      <guid>http://localhost:59468/posts/chemistry/separation/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoichiometry</title>
-      <link>http://localhost:1313/posts/chemistry/stoi/</link>
+      <link>http://localhost:59468/posts/chemistry/stoi/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/chemistry/stoi/</guid>
+      <guid>http://localhost:59468/posts/chemistry/stoi/</guid>
       <description></description>
     </item>
     <item>
       <title>Ultimate Matcha Guide</title>
-      <link>http://localhost:1313/posts/cafe/mat/</link>
+      <link>http://localhost:59468/posts/cafe/mat/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/cafe/mat/</guid>
+      <guid>http://localhost:59468/posts/cafe/mat/</guid>
       <description></description>
     </item>
     <item>
       <title>Ultimate Milk Tea Guide</title>
-      <link>http://localhost:1313/posts/cafe/milktea/</link>
+      <link>http://localhost:59468/posts/cafe/milktea/</link>
       <pubDate>Mon, 20 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/cafe/milktea/</guid>
+      <guid>http://localhost:59468/posts/cafe/milktea/</guid>
       <description></description>
     </item>
     <item>
       <title>Static Electricity</title>
-      <link>http://localhost:1313/posts/physics/statice/</link>
+      <link>http://localhost:59468/posts/physics/statice/</link>
       <pubDate>Wed, 08 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/statice/</guid>
+      <guid>http://localhost:59468/posts/physics/statice/</guid>
       <description></description>
     </item>
     <item>
       <title>Decolonization of Malaya</title>
-      <link>http://localhost:1313/posts/history/decolofmalaya/</link>
+      <link>http://localhost:59468/posts/history/decolofmalaya/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/history/decolofmalaya/</guid>
+      <guid>http://localhost:59468/posts/history/decolofmalaya/</guid>
       <description></description>
     </item>
     <item>
       <title>Decolonization of Vietnam</title>
-      <link>http://localhost:1313/posts/history/decolofvn/</link>
+      <link>http://localhost:59468/posts/history/decolofvn/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/history/decolofvn/</guid>
+      <guid>http://localhost:59468/posts/history/decolofvn/</guid>
       <description></description>
     </item>
     <item>
       <title>Pressure</title>
-      <link>http://localhost:1313/posts/physics/pressure/</link>
+      <link>http://localhost:59468/posts/physics/pressure/</link>
       <pubDate>Tue, 07 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/pressure/</guid>
+      <guid>http://localhost:59468/posts/physics/pressure/</guid>
       <description></description>
     </item>
     <item>
       <title>Causes of WW2</title>
-      <link>http://localhost:1313/posts/history/ww2/</link>
+      <link>http://localhost:59468/posts/history/ww2/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/history/ww2/</guid>
+      <guid>http://localhost:59468/posts/history/ww2/</guid>
       <description></description>
     </item>
     <item>
       <title>The Cold War</title>
-      <link>http://localhost:1313/posts/history/coldwar/</link>
+      <link>http://localhost:59468/posts/history/coldwar/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/history/coldwar/</guid>
+      <guid>http://localhost:59468/posts/history/coldwar/</guid>
       <description></description>
     </item>
     <item>
       <title>The Rise of the Nazi Party</title>
-      <link>http://localhost:1313/posts/history/nazi/</link>
+      <link>http://localhost:59468/posts/history/nazi/</link>
       <pubDate>Sat, 04 Oct 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/history/nazi/</guid>
+      <guid>http://localhost:59468/posts/history/nazi/</guid>
       <description></description>
     </item>
     <item>
       <title>DC Circuits</title>
-      <link>http://localhost:1313/posts/physics/-dccircuits/</link>
+      <link>http://localhost:59468/posts/physics/-dccircuits/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/-dccircuits/</guid>
+      <guid>http://localhost:59468/posts/physics/-dccircuits/</guid>
       <description></description>
     </item>
     <item>
       <title>Electromagnetism</title>
-      <link>http://localhost:1313/posts/physics/em/</link>
+      <link>http://localhost:59468/posts/physics/em/</link>
       <pubDate>Thu, 03 Jul 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/em/</guid>
+      <guid>http://localhost:59468/posts/physics/em/</guid>
       <description></description>
     </item>
     <item>
       <title>Waves</title>
-      <link>http://localhost:1313/posts/physics/waves/</link>
+      <link>http://localhost:59468/posts/physics/waves/</link>
       <pubDate>Wed, 09 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/waves/</guid>
+      <guid>http://localhost:59468/posts/physics/waves/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinematics</title>
-      <link>http://localhost:1313/posts/physics/kinematics/</link>
+      <link>http://localhost:59468/posts/physics/kinematics/</link>
       <pubDate>Thu, 03 Apr 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/kinematics/</guid>
+      <guid>http://localhost:59468/posts/physics/kinematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Measurement</title>
-      <link>http://localhost:1313/posts/physics/measurement/</link>
+      <link>http://localhost:59468/posts/physics/measurement/</link>
       <pubDate>Mon, 10 Mar 2025 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/physics/measurement/</guid>
+      <guid>http://localhost:59468/posts/physics/measurement/</guid>
       <description></description>
     </item>
   </channel>

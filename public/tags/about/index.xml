@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Infodump</title>
-    <link>http://localhost:1313/tags/about/</link>
+    <link>http://localhost:59468/tags/about/</link>
     <description>Recent content in About on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 19:08:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59468/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:59468/about/</link>
       <pubDate>Thu, 12 Feb 2026 19:08:07 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:59468/about/</guid>
       <description>&lt;p&gt;Hi ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I&#39;m Chloe, a student currently studying in Singapore under the A-level (GCSE) &#xA;syllabus taking subjects: H2 Math, H2 Further Math, H2 Econs, and H2 Physics. &#xA;This is my platform where I share notes/resources that you may find helpful! &#xA;Feel free to browse around ⊹ ࣪&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Again, thanks for visiting this site&lt;/p&gt;&#xA;&#xA;&lt;section class=&#34;contact-section&#34;&gt;&#xA;  &lt;p&gt;Feel free to email me for any note requests / feedback as I have not uploaded all my notes yet! You can contact me here!&lt;/p&gt;</description>
     </item>
   </channel>

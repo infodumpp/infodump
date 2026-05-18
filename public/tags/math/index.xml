@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Infodump</title>
-    <link>http://localhost:1313/tags/math/</link>
+    <link>http://localhost:59468/tags/math/</link>
     <description>Recent content in Math on Infodump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 23:05:54 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2026 23:05:54 +0800</lastBuildDate>
+    <atom:link href="http://localhost:59468/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vectors I</title>
+      <link>http://localhost:59468/posts/math/vectors1/</link>
+      <pubDate>Sat, 11 Apr 2026 23:05:54 +0800</pubDate>
+      <guid>http://localhost:59468/posts/math/vectors1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>2nd Order Differentiation</title>
-      <link>http://localhost:1313/posts/math/de/</link>
+      <link>http://localhost:59468/posts/math/de/</link>
       <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/de/</guid>
+      <guid>http://localhost:59468/posts/math/de/</guid>
       <description></description>
     </item>
     <item>
       <title>Basic differentiation Notes</title>
-      <link>http://localhost:1313/posts/math/diff/</link>
+      <link>http://localhost:59468/posts/math/diff/</link>
       <pubDate>Tue, 10 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/diff/</guid>
+      <guid>http://localhost:59468/posts/math/diff/</guid>
       <description></description>
     </item>
     <item>
       <title>Further Integration Techniques</title>
-      <link>http://localhost:1313/posts/math/integration/</link>
+      <link>http://localhost:59468/posts/math/integration/</link>
       <pubDate>Mon, 09 Feb 2026 23:05:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/math/integration/</guid>
+      <guid>http://localhost:59468/posts/math/integration/</guid>
       <description></description>
     </item>
   </channel>
